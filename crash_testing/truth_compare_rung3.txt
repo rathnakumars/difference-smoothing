@@ -1,0 +1,1025 @@
+#filename:  true delay:  corrected delay ± uncertainty:  random:  systematic:  delta:  smoothing:  measured delay:  max ratio:
+tdc1_rung3_double_pair1.txt     -57.53		-57.89  3.18  3.06  0.89  3.00  15.0  -58.78  1.996
+tdc1_rung3_double_pair2.txt     -33.49		-11	-11
+tdc1_rung3_double_pair3.txt     -108.85		-99	-99
+tdc1_rung3_double_pair4.txt     71.03		71.51  1.07  1.07  0.07  3.05  30.5  71.58  1.096
+tdc1_rung3_double_pair5.txt     -33.82		-33.98  1.18  1.17  0.15  3.01  7.5  -34.13  1.566
+tdc1_rung3_double_pair6.txt     -62.04		-61.95  0.48  0.47  0.10  2.99  29.9  -61.85  1.644
+tdc1_rung3_double_pair7.txt     -61.6		-61.22  2.34  2.17  0.88  3.06  15.3  -62.10  2.149
+tdc1_rung3_double_pair8.txt     -73.6		-72.97  1.16  1.13  0.26  3.12  7.8  -73.23  2.229
+tdc1_rung3_double_pair9.txt     41.9		40.57  2.19  2.11  0.60  3.12  15.6  41.17  1.651
+tdc1_rung3_double_pair10.txt     104.22		-99	-99
+tdc1_rung3_double_pair11.txt     91.46		-11	-11
+tdc1_rung3_double_pair12.txt     -53.45		-11	-11
+tdc1_rung3_double_pair13.txt     41.84		-11	-11
+tdc1_rung3_double_pair14.txt     47.06		-11	-11
+tdc1_rung3_double_pair15.txt     21.52		-11	-11
+tdc1_rung3_double_pair16.txt     -82.36		-80.51  1.42  1.41  0.16  3.10  31.0  -80.66  1.580
+tdc1_rung3_double_pair17.txt     72.14		70.80  2.13  1.77  1.19  3.06  30.6  71.99  1.856
+tdc1_rung3_double_pair18.txt     105.86		-99	-99
+tdc1_rung3_double_pair19.txt     -55.81		-51.81  7.25  6.06  3.97  2.98  14.9  -55.78  1.695
+tdc1_rung3_double_pair20.txt     -31.47		-31.06  1.51  1.26  0.83  3.05  7.6  -31.89  1.662
+tdc1_rung3_double_pair21.txt     33.98		33.67  0.70  0.56  0.41  3.07  15.3  34.08  1.960
+tdc1_rung3_double_pair22.txt     18.89		-11	-11
+tdc1_rung3_double_pair23.txt     -56.89		-11	-11
+tdc1_rung3_double_pair24.txt     15.94		15.88  0.50  0.43  0.25  2.91  29.1  16.13  1.236
+tdc1_rung3_double_pair25.txt     45.14		45.83  1.63  1.63  0.18  3.08  7.7  45.66  1.889
+tdc1_rung3_double_pair26.txt     -37.52		-36.43  1.06  1.06  0.02  3.03  30.3  -36.45  1.946
+tdc1_rung3_double_pair27.txt     32.47		33.33  0.80  0.58  0.55  2.97  29.7  32.78  1.976
+tdc1_rung3_double_pair28.txt     8.63		-11	-11
+tdc1_rung3_double_pair29.txt     30.98		-11	-11
+tdc1_rung3_double_pair30.txt     -10.58		-11	-11
+tdc1_rung3_double_pair31.txt     -41.65		-41.74  1.37  1.36  0.15  3.10  15.5  -41.89  1.839
+tdc1_rung3_double_pair32.txt     -80.72		-11	-11
+tdc1_rung3_double_pair33.txt     -82.47		-11	-11
+tdc1_rung3_double_pair34.txt     -59.54		-60.65  1.34  1.33  0.17  2.93  14.6  -60.48  1.632
+tdc1_rung3_double_pair35.txt     43.21		43.74  1.05  0.96  0.42  3.00  30.0  44.16  1.946
+tdc1_rung3_double_pair36.txt     -22.18		-21.70  0.41  0.40  0.09  2.98  29.8  -21.61  1.879
+tdc1_rung3_double_pair37.txt     93.53		92.34  2.08  1.14  1.74  2.99  29.9  94.08  1.123
+tdc1_rung3_double_pair38.txt     49.23		49.71  1.95  1.91  0.43  3.03  30.3  49.28  1.927
+tdc1_rung3_double_pair39.txt     -32.53		-11	-11
+tdc1_rung3_double_pair40.txt     -23.89		-11	-11
+tdc1_rung3_double_pair41.txt     -92.48		-11	-11
+tdc1_rung3_double_pair42.txt     -33.75		-33.12  1.23  1.19  0.34  3.10  7.7  -33.46  1.509
+tdc1_rung3_double_pair43.txt     -97.75		-11	-11
+tdc1_rung3_double_pair44.txt     53.93		54.46  0.90  0.75  0.48  3.05  30.5  53.98  0.867
+tdc1_rung3_double_pair45.txt     -28.54		-29.70  0.92  0.71  0.58  2.98  14.9  -29.12  1.610
+tdc1_rung3_double_pair46.txt     87.21		-99	-99
+tdc1_rung3_double_pair47.txt     -18.02		-11	-11
+tdc1_rung3_double_pair48.txt     115.15		-99	-99
+tdc1_rung3_double_pair49.txt     -12.45		-11	-11
+tdc1_rung3_double_pair50.txt     44.13		-11	-11
+tdc1_rung3_double_pair51.txt     -10.85		-11	-11
+tdc1_rung3_double_pair52.txt     10.27		9.77  0.69  0.54  0.42  3.02  30.2  10.19  1.283
+tdc1_rung3_double_pair53.txt     -39.1		-99	-99
+tdc1_rung3_double_pair54.txt     44.5		-99	-99
+tdc1_rung3_double_pair55.txt     33.14		-11	-11
+tdc1_rung3_double_pair56.txt     46.64		46.94  1.28  1.10  0.66  3.03  30.3  47.60  1.811
+tdc1_rung3_double_pair57.txt     109.74		-99	-99
+tdc1_rung3_double_pair58.txt     7.42		-99	-99
+tdc1_rung3_double_pair59.txt     -5.46		-5.14  0.83  0.83  0.02  3.06  30.6  -5.15  1.461
+tdc1_rung3_double_pair60.txt     56.07		-11	-11
+tdc1_rung3_double_pair61.txt     -43.39		-44.91  4.33  4.30  0.47  2.99  7.5  -44.44  2.422
+tdc1_rung3_double_pair62.txt     16.65		15.89  0.89  0.62  0.64  3.12  31.2  16.53  1.346
+tdc1_rung3_double_pair63.txt     -27.97		-28.84  1.69  1.63  0.46  2.82  28.2  -29.30  2.389
+tdc1_rung3_double_pair64.txt     39.2		39.61  1.02  0.99  0.21  3.01  30.1  39.40  1.862
+tdc1_rung3_double_pair65.txt     -18.86		-11	-11
+tdc1_rung3_double_pair66.txt     40.85		40.27  1.35  0.83  1.06  2.95  29.5  41.33  1.910
+tdc1_rung3_double_pair67.txt     -51.36		-50.79  1.18  0.78  0.89  2.90  29.0  -51.67  1.381
+tdc1_rung3_double_pair68.txt     -102.36	-11	-11
+tdc1_rung3_double_pair69.txt     -14.84		-11	-11
+tdc1_rung3_double_pair70.txt     -65.3		-63.82  2.10  1.83  1.02  2.87  7.2  -64.84  2.392
+tdc1_rung3_double_pair71.txt     -75.93		-11	-11
+tdc1_rung3_double_pair72.txt     32.44		32.46  0.53  0.52  0.11  2.96  29.6  32.58  1.833
+tdc1_rung3_double_pair73.txt     30.93		-11	-11
+tdc1_rung3_double_pair74.txt     18.36		18.76  0.48  0.43  0.21  3.02  30.2  18.97  1.398
+tdc1_rung3_double_pair75.txt     21.19		20.94  1.67  1.16  1.20  2.85  28.5  22.14  1.882
+tdc1_rung3_double_pair76.txt     -70.02		-69.67  1.09  0.87  0.66  3.12  31.2  -70.33  1.758
+tdc1_rung3_double_pair77.txt     36.34		-11	-11
+tdc1_rung3_double_pair78.txt     -36.59		-11	-11
+tdc1_rung3_double_pair79.txt     99.62		103.41  2.87  2.43  1.52  3.02  964.9  104.94  1.817
+tdc1_rung3_double_pair80.txt     101.0		-11	-11
+tdc1_rung3_double_pair81.txt     5.86		6.68  0.79  0.79  0.02  3.08  30.8  6.70  1.924
+tdc1_rung3_double_pair82.txt     37.21		-11	-11
+tdc1_rung3_double_pair83.txt     58.83		58.77  3.06  2.93  0.89  3.07  15.3  57.88  2.523
+tdc1_rung3_double_pair84.txt     61.03		61.48  0.80  0.80  0.01  3.22  16.1  61.47  1.995
+tdc1_rung3_double_pair85.txt     38.68		-99	-99
+tdc1_rung3_double_pair86.txt     -12.7		-11	-11
+tdc1_rung3_double_pair87.txt     97.53		99.02  1.31  1.30  0.14  3.05  243.8  99.16  1.926
+tdc1_rung3_double_pair88.txt     9.19		-11	-11
+tdc1_rung3_double_pair89.txt     -31.22		-11	-11
+tdc1_rung3_double_pair90.txt     21.27		-11	-11
+tdc1_rung3_double_pair91.txt     -32.41		-32.36  1.17  1.07  0.47  3.07  30.7  -32.84  1.519
+tdc1_rung3_double_pair92.txt     72.17		-11	-11
+tdc1_rung3_double_pair93.txt     31.3		-11	-11
+tdc1_rung3_double_pair94.txt     62.29		-99	-99
+tdc1_rung3_double_pair95.txt     -49.76		-48.98  0.86  0.82  0.23  2.97  29.7  -49.21  1.663
+tdc1_rung3_double_pair96.txt     -15.59		-16.50  1.84  1.84  0.04  3.04  30.4  -16.46  1.735
+tdc1_rung3_double_pair97.txt     24.02		-11	-11
+tdc1_rung3_double_pair98.txt     -29.91		-29.10  2.20  2.19  0.20  3.06  30.6  -29.30  2.062
+tdc1_rung3_double_pair99.txt     -40.79		-42.61  1.93  1.61  1.05  2.94  29.4  -41.55  2.386
+tdc1_rung3_double_pair100.txt     8.75		8.45  0.77  0.71  0.28  2.99  29.9  8.73  1.726
+tdc1_rung3_double_pair101.txt     27.83		-11	-11
+tdc1_rung3_double_pair102.txt     -88.32	-99	-99
+tdc1_rung3_double_pair103.txt     -42.06	-11	-11
+tdc1_rung3_double_pair104.txt     11.28		11.88  0.45  0.41  0.19  2.94  29.4  11.69  1.612
+tdc1_rung3_double_pair105.txt     7.85		-11	-11
+tdc1_rung3_double_pair106.txt     91.04		91.87  2.43  1.72  1.72  3.03  30.3  93.59  1.619
+tdc1_rung3_double_pair107.txt     -45.41	-11	-11
+tdc1_rung3_double_pair108.txt     111.46	-99	-99
+tdc1_rung3_double_pair109.txt     14.71		15.24  1.62  1.61  0.19  3.11  31.1  15.43  1.855
+tdc1_rung3_double_pair110.txt     42.16		42.19  0.57  0.47  0.34  3.01  30.1  42.53  1.161
+tdc1_rung3_double_pair111.txt     -53.49	-11	-11
+tdc1_rung3_double_pair112.txt     -38.12	-11	-11
+tdc1_rung3_double_pair113.txt     14.86		13.53  1.86  1.67  0.82  2.92  14.6  14.35  2.513
+tdc1_rung3_double_pair114.txt     37.15		37.21  0.63  0.63  0.03  2.97  29.7  37.18  1.640
+tdc1_rung3_double_pair115.txt     20.68		21.51  1.69  1.66  0.30  3.02  30.2  21.21  1.841
+tdc1_rung3_double_pair116.txt     38.4		39.94  1.12  0.98  0.55  2.96  7.4  39.39  2.055
+tdc1_rung3_double_pair117.txt     -10.33	-9.66  0.86  0.75  0.42  3.10  31.0  -10.08  1.748
+tdc1_rung3_double_pair118.txt     64.28		-11	-11
+tdc1_rung3_double_pair119.txt     12.16		12.05  0.52  0.47  0.23  3.05  30.5  12.28  1.262
+tdc1_rung3_double_pair120.txt     -103.09	-11	-11
+tdc1_rung3_double_pair121.txt     15.75		-99	-99
+tdc1_rung3_double_pair122.txt     12.4		10.98  1.36  0.88  1.03  2.95  29.5  12.02  1.877
+tdc1_rung3_double_pair123.txt     35.21		37.00  2.36  2.06  1.15  2.94  29.4  35.85  1.927
+tdc1_rung3_double_pair124.txt     27.98		-11	-11
+tdc1_rung3_double_pair125.txt     -34.54	-34.08  0.60  0.55  0.24  2.89  28.9  -34.32  1.982
+tdc1_rung3_double_pair126.txt     13.87		-99	-99
+tdc1_rung3_double_pair127.txt     52.25		51.96  1.35  1.10  0.79  2.92  29.2  52.74  1.405
+tdc1_rung3_double_pair128.txt     53.68		52.96  1.79  1.79  0.04  3.01  30.1  52.99  1.485
+tdc1_rung3_double_pair129.txt     -10.26	-11	-11
+tdc1_rung3_double_pair130.txt     41.49		-11	-11
+tdc1_rung3_double_pair131.txt     17.92		-11	-11
+tdc1_rung3_double_pair132.txt     -84.11	-83.62  0.75  0.75  0.04  2.91  29.1  -83.57  1.902
+tdc1_rung3_double_pair133.txt     -15.39	-13.83  1.51  1.24  0.85  3.04  30.4  -14.69  1.626
+tdc1_rung3_double_pair134.txt     85.37		84.12  1.24  0.77  0.97  2.84  28.4  85.09  1.017
+tdc1_rung3_double_pair135.txt     -64.61	-11	-11
+tdc1_rung3_double_pair136.txt     -29.21	-11	-11
+tdc1_rung3_double_pair137.txt     -71.41	-11	-11
+tdc1_rung3_double_pair138.txt     -69.38	-69.54  0.86  0.81  0.26  2.86  28.6  -69.81  1.315
+tdc1_rung3_double_pair139.txt     84.67		-11	-11
+tdc1_rung3_double_pair140.txt     -11.48	-10.73  1.20  0.97  0.72  2.99  7.5  -11.45  2.556
+tdc1_rung3_double_pair141.txt     49.76		49.80  0.66  0.57  0.33  2.94  29.4  50.13  1.320
+tdc1_rung3_double_pair142.txt     -52.81	-11	-11
+tdc1_rung3_double_pair143.txt     -94.59	-101.25  2.32  2.29  0.42  2.98  238.3  -100.83  1.759
+tdc1_rung3_double_pair144.txt     -73.52	-73.22  0.69  0.56  0.40  3.02  30.2  -73.62  1.383
+tdc1_rung3_double_pair145.txt     -73.12	-74.18  1.18  1.14  0.29  3.01  30.1  -74.48  1.952
+tdc1_rung3_double_pair146.txt     -52.2		-53.13  1.17  0.79  0.86  3.14  15.7  -52.27  1.181
+tdc1_rung3_double_pair147.txt     -11.27	-11.45  0.67  0.66  0.12  3.03  7.6  -11.56  1.922
+tdc1_rung3_double_pair148.txt     -13.55	-11.60  4.28  2.75  3.28  2.98  29.8  -14.88  1.814
+tdc1_rung3_double_pair149.txt     -14.61	-13.45  0.88  0.65  0.59  3.00  30.0  -14.04  1.947
+tdc1_rung3_double_pair150.txt     -14.23	-14.15  0.57  0.47  0.32  2.91  29.1  -14.47  1.826
+tdc1_rung3_double_pair151.txt     -91.27	-11	-11
+tdc1_rung3_double_pair152.txt     -65.55	-66.57  1.41  1.36  0.36  3.02  30.2  -66.93  1.120
+tdc1_rung3_double_pair153.txt     40.31		41.11  1.93  1.77  0.77  3.09  7.7  41.88  1.856
+tdc1_rung3_double_pair154.txt     -5.03		-11	-11
+tdc1_rung3_double_pair155.txt     -81.45	-99	-99
+tdc1_rung3_double_pair156.txt     97.19		95.73  2.52  1.87  1.70  2.91  232.8  97.43  1.274
+tdc1_rung3_double_pair157.txt     -102.1	-99	-99
+tdc1_rung3_double_pair158.txt     13.15		12.67  0.62  0.54  0.30  2.92  29.2  12.97  1.617
+tdc1_rung3_double_pair159.txt     16.52		-11	-11
+tdc1_rung3_double_pair160.txt     -26.04	-11	-11
+tdc1_rung3_double_pair161.txt     25.16		24.93  0.89  0.71  0.54  3.11  15.6  25.47  1.987
+tdc1_rung3_double_pair162.txt     19.56		19.87  1.18  1.18  0.10  2.94  7.4  19.98  1.959
+tdc1_rung3_double_pair163.txt     23.73		23.14  0.65  0.61  0.24  2.98  29.8  23.37  1.434
+tdc1_rung3_double_pair164.txt     49.67		-11	-11
+tdc1_rung3_double_pair165.txt     55.66		55.61  1.12  0.85  0.73  3.00  30.0  56.35  1.348
+tdc1_rung3_double_pair166.txt     16.48		-11	-11
+tdc1_rung3_double_pair167.txt     -20.74	-11	-11
+tdc1_rung3_double_pair168.txt     16.66		-11	-11
+tdc1_rung3_double_pair169.txt     -92.22	-92.09  1.79  1.60  0.81  3.14  31.4  -92.90  1.338
+tdc1_rung3_double_pair170.txt     92.17		93.49  1.77  1.59  0.77  2.94  29.4  92.72  1.320
+tdc1_rung3_double_pair171.txt     63.12		62.96  1.87  1.83  0.40  3.09  30.9  62.56  1.599
+tdc1_rung3_double_pair172.txt     -53.56	-11	-11
+tdc1_rung3_double_pair173.txt     -55.69	-56.89  1.22  0.90  0.82  2.98  7.4  -56.07  1.723
+tdc1_rung3_double_pair174.txt     17.38		17.16  0.53  0.36  0.39  2.95  29.5  17.55  1.196
+tdc1_rung3_double_pair175.txt     -87.07	-11	-11
+tdc1_rung3_double_pair176.txt     48.47		47.73  0.74  0.67  0.30  2.95  29.5  48.03  1.645
+tdc1_rung3_double_pair177.txt     -58.95	-11	-11
+tdc1_rung3_double_pair178.txt     23.02		-99	-99
+tdc1_rung3_double_pair179.txt     7.54		-11	-11
+tdc1_rung3_double_pair180.txt     -8.98		-11.63  3.85  3.58  1.43  2.96  29.6  -10.20  2.416
+tdc1_rung3_double_pair181.txt     42.05		43.67  2.53  2.39  0.83  3.05  15.3  42.84  2.117
+tdc1_rung3_double_pair182.txt     -39.05	-11	-11
+tdc1_rung3_double_pair183.txt     -17.61	-11	-11
+tdc1_rung3_double_pair184.txt     55.28		55.20  2.66  1.97  1.80  3.02  30.2  57.00  2.782
+tdc1_rung3_double_pair185.txt     20.05		-11	-11
+tdc1_rung3_double_pair186.txt     -22.92	-11	-11
+tdc1_rung3_double_pair187.txt     53.19		52.78  1.08  1.04  0.28  3.02  15.1  52.50  3.350
+tdc1_rung3_double_pair188.txt     -65.28	-65.08  1.14  0.99  0.57  3.05  30.5  -65.65  1.233
+tdc1_rung3_double_pair189.txt     -51.85	-11	-11
+tdc1_rung3_double_pair190.txt     102.22	-11	-11
+tdc1_rung3_double_pair191.txt     34.65		33.23  2.70  2.35  1.32  2.96  59.1  34.55  2.115
+tdc1_rung3_double_pair192.txt     23.12		23.37  0.64  0.61  0.20  3.00  30.0  23.57  1.874
+tdc1_rung3_double_pair193.txt     -40.65	-11	-11
+tdc1_rung3_double_pair194.txt     -32.06	-30.87  1.88  1.68  0.84  3.01  7.5  -31.71  2.373	
+tdc1_rung3_double_pair195.txt     -25.25	-25.65  0.50  0.50  0.03  2.99  29.9  -25.68  0.918
+tdc1_rung3_double_pair196.txt     21.59		-11	-11
+tdc1_rung3_double_pair197.txt     -31.22	-11	-11
+tdc1_rung3_double_pair198.txt     14.82		-11	-11
+tdc1_rung3_double_pair199.txt     58.83		-11	-11
+tdc1_rung3_double_pair200.txt     21.57		20.31  1.88  1.62  0.96  2.89  14.5  21.27  2.110
+tdc1_rung3_double_pair201.txt     87.65		-11	-11
+tdc1_rung3_double_pair202.txt     -33.51	-33.87  0.62  0.61  0.08  2.97  7.4  -33.79  1.691
+tdc1_rung3_double_pair203.txt     -84.85	-87.86  3.12  2.74  1.50  3.05  30.5  -89.36  1.724
+tdc1_rung3_double_pair204.txt     -71.59	-11	-11
+tdc1_rung3_double_pair205.txt     -63.0		-62.85  1.60  1.37  0.83  2.96  29.6  -63.67  1.561
+tdc1_rung3_double_pair206.txt     -41.01	-40.99  0.73  0.71  0.19  3.02  15.1  -41.18  1.906
+tdc1_rung3_double_pair207.txt     -25.51	-25.07  0.86  0.74  0.43  3.08  30.8  -25.50  1.529	
+tdc1_rung3_double_pair208.txt     31.38		31.91  0.66  0.65  0.11  3.00  30.0  31.80  0.900
+tdc1_rung3_double_pair209.txt     89.26		-11	-11
+tdc1_rung3_double_pair210.txt     -19.26	-17.79  1.68  1.58  0.57  2.98  7.4  -18.36  1.824
+tdc1_rung3_double_pair211.txt     -87.07	-11	-11
+tdc1_rung3_double_pair212.txt     -21.59	-11	-11
+tdc1_rung3_double_pair213.txt     49.79		49.11  1.53  1.37  0.67  2.91  7.3  48.44  1.479
+tdc1_rung3_double_pair214.txt     46.7		46.58  0.74  0.42  0.61  2.97  29.7  47.19  1.524
+tdc1_rung3_double_pair215.txt     -7.86		-7.05  2.15  1.84  1.11  2.95  14.8  -8.15  2.000
+tdc1_rung3_double_pair216.txt     -57.41	-11	-11
+tdc1_rung3_double_pair217.txt     86.85		-99	-99
+tdc1_rung3_double_pair218.txt     -30.01	-11	-11
+tdc1_rung3_double_pair219.txt     -31.55	-11	-11
+tdc1_rung3_double_pair220.txt     -23.74	-23.16  1.24  1.24  0.07  2.97  29.7  -23.10  1.537
+tdc1_rung3_double_pair221.txt     -45.19	-45.47  0.49  0.49  0.03  2.92  29.2  -45.50  0.927
+tdc1_rung3_double_pair222.txt     -94.41	-11	-11
+tdc1_rung3_double_pair223.txt     38.63		38.25  0.60  0.50  0.32  2.92  29.2  38.57  1.186
+tdc1_rung3_double_pair224.txt     84.92		-11	-11
+tdc1_rung3_double_pair225.txt     65.28		-11	-11
+tdc1_rung3_double_pair226.txt     44.37		40.49  2.75  2.57  0.97  3.09  30.9  41.46  1.796
+tdc1_rung3_double_pair227.txt     -20.01	-19.96  0.57  0.52  0.22  3.09  30.9  -20.18  1.126
+tdc1_rung3_double_pair228.txt     19.04		18.80  1.06  0.95  0.49  3.00  15.0  18.31  1.745
+tdc1_rung3_double_pair229.txt     61.28		-11	-11
+tdc1_rung3_double_pair230.txt     -28.15	-28.06  0.60  0.60  0.02  2.90  7.2  -28.08  1.864
+tdc1_rung3_double_pair231.txt     87.99		88.52  0.82  0.61  0.55  2.94  29.4  89.07  1.200
+tdc1_rung3_double_pair232.txt     88.8		-11	-11
+tdc1_rung3_double_pair233.txt     77.79		-11	-11
+tdc1_rung3_double_pair234.txt     35.54		-99	-99
+tdc1_rung3_double_pair235.txt     -27.9		-28.06  0.86  0.79  0.34  3.18  31.8  -28.41  1.419
+tdc1_rung3_double_pair236.txt     21.52		-11	-11
+tdc1_rung3_double_pair237.txt     76.26		-11	-11
+tdc1_rung3_double_pair238.txt     -15.28	-11	-11
+tdc1_rung3_double_pair239.txt     59.83		59.84  0.67  0.56  0.38  3.02  30.2  60.22  1.217
+tdc1_rung3_double_pair240.txt     11.63		11.37  0.87  0.87  0.03  3.08  30.8  11.39  1.603
+tdc1_rung3_double_pair241.txt     -91.89	-92.06  2.22  1.78  1.33  3.01  120.3  -93.40  2.316
+tdc1_rung3_double_pair242.txt     -55.06	-54.67  0.62  0.59  0.17  3.03  30.3  -54.84  1.206
+tdc1_rung3_double_pair243.txt     11.56		11.88  1.60  1.59  0.21  2.94  29.4  11.67  1.726
+tdc1_rung3_double_pair244.txt     -36.19	-36.63  0.64  0.61  0.17  2.94  29.4  -36.80  1.831
+tdc1_rung3_double_pair245.txt     -45.17	-11	-11
+tdc1_rung3_double_pair246.txt     -87.37	-86.78  3.32  2.76  1.85  3.20  32.0  -88.63  1.740
+tdc1_rung3_double_pair247.txt     -8.05		-9.11  0.95  0.95  0.05  3.03  30.3  -9.06  1.794
+tdc1_rung3_double_pair248.txt     58.61		58.28  1.04  1.00  0.31  2.96  29.6  58.58  1.211
+tdc1_rung3_double_pair249.txt     11.27		12.21  1.42  1.41  0.19  3.02  15.1  12.02  2.092
+tdc1_rung3_double_pair250.txt     88.41		-11	-11
+tdc1_rung3_double_pair251.txt     10.57		10.24  0.73  0.59  0.43  3.03  30.3  10.67  1.660
+tdc1_rung3_double_pair252.txt     -77.28	-76.86  1.32  0.92  0.95  3.01  30.1  -77.82  1.389
+tdc1_rung3_double_pair253.txt     -34.54	-34.83  1.22  1.12  0.48  3.00  7.5  -34.35  2.323
+tdc1_rung3_double_pair254.txt     -68.18	-11	-11
+tdc1_rung3_double_pair255.txt     18.67		-11	-11
+tdc1_rung3_double_pair256.txt     -17.02	-11	-11
+tdc1_rung3_double_pair257.txt     18.25		18.23  0.93  0.92  0.10  2.93  14.6  18.13  1.983
+tdc1_rung3_double_pair258.txt     29.77		29.37  1.59  1.55  0.37  2.92  7.3  29.73  1.729
+tdc1_rung3_double_pair259.txt     72.83		72.65  0.55  0.51  0.21  3.02  30.2  72.44  1.634
+tdc1_rung3_double_pair260.txt     22.55		23.19  0.83  0.81  0.19  2.93  29.3  23.00  1.957
+tdc1_rung3_double_pair261.txt     68.84		-11	-11
+tdc1_rung3_double_pair262.txt     6.45		6.34  0.76  0.75  0.17  3.10  15.5  6.51  1.975
+tdc1_rung3_double_pair263.txt     68.23		-11	-11
+tdc1_rung3_double_pair264.txt     70.89		66.54  5.55  4.46  3.31  2.93  234.2  69.85  1.480
+tdc1_rung3_double_pair265.txt     -20.0		-19.85  0.58  0.57  0.09  3.03  30.3  -19.94  1.396
+tdc1_rung3_double_pair266.txt     -24.09	-11	-11
+tdc1_rung3_double_pair267.txt     97.28		-11	-11
+tdc1_rung3_double_pair268.txt     -52.76	-51.76  3.48  3.35  0.92  3.01  7.5  -52.68  1.585
+tdc1_rung3_double_pair269.txt     -13.83	-15.21  1.33  1.33  0.04  3.01  30.1  -15.26  1.868
+tdc1_rung3_double_pair270.txt     119.21	-11	-11
+tdc1_rung3_double_pair271.txt     -97.22	-11	-11
+tdc1_rung3_double_pair272.txt     13.04		-11	-11
+tdc1_rung3_double_pair273.txt     88.92		88.78  2.23  2.03  0.91  3.02  241.8  89.69  2.073
+tdc1_rung3_double_pair274.txt     -31.66	-31.58  0.75  0.73  0.16  2.95  14.8  -31.75  1.946
+tdc1_rung3_double_pair275.txt     -29.77	-28.09  2.76  2.75  0.19  2.98  7.5  -28.28  1.905
+tdc1_rung3_double_pair276.txt     75.29		75.88  1.00  0.96  0.28  3.08  30.8  75.60  1.383
+tdc1_rung3_double_pair277.txt     -79.92	-79.87  1.88  1.82  0.47  3.08  7.7  -80.34  2.291
+tdc1_rung3_double_pair278.txt     -83.45	-11	-11
+tdc1_rung3_double_pair279.txt     50.13		51.13  2.03  1.91  0.70  3.02  30.2  50.44  1.486
+tdc1_rung3_double_pair280.txt     53.81		-11	-11
+tdc1_rung3_double_pair281.txt     58.64		56.36  2.20  1.58  1.53  3.07  30.7  57.88  1.953
+tdc1_rung3_double_pair282.txt     63.92		64.06  0.64  0.63  0.12  2.95  29.5  64.19  1.757
+tdc1_rung3_double_pair283.txt     50.23		50.63  0.58  0.56  0.13  3.01  30.1  50.76  1.143
+tdc1_rung3_double_pair284.txt     102.93	104.35  2.81  2.25  1.68  3.02  483.3  106.03  1.202
+tdc1_rung3_double_pair285.txt     -23.99	-25.34  0.95  0.82  0.47  3.00  30.0  -24.87  1.627
+tdc1_rung3_double_pair286.txt     -24.01	-25.08  0.93  0.87  0.34  2.95  14.7  -24.74  1.946
+tdc1_rung3_double_pair287.txt     30.98		30.36  1.38  1.30  0.46  3.16  31.6  30.83  1.745
+tdc1_rung3_double_pair288.txt     -28.32	-11	-11
+tdc1_rung3_double_pair289.txt     -28.44	-27.20  2.73  2.67  0.55  3.13  31.3  -27.75  1.975
+tdc1_rung3_double_pair290.txt     -99.69	-11	-11
+tdc1_rung3_double_pair291.txt     -42.56	-43.01  0.62  0.56  0.25  2.93  29.3  -43.26  1.893
+tdc1_rung3_double_pair292.txt     10.34		-11	-11
+tdc1_rung3_double_pair293.txt     7.61		7.56  0.43  0.42  0.10  3.06  15.3  7.66  1.372
+tdc1_rung3_double_pair294.txt     50.25		-11	-11
+tdc1_rung3_double_pair295.txt     -88.26	-88.87  0.79  0.78  0.14  2.88  28.8  -89.01  1.212
+tdc1_rung3_double_pair296.txt     37.54		38.38  0.47  0.39  0.25  3.02  30.2  38.12  1.359
+tdc1_rung3_double_pair297.txt     -23.09	-23.45  0.54  0.52  0.16  2.91  29.1  -23.61  1.517
+tdc1_rung3_double_pair298.txt     98.0		-11	-11
+tdc1_rung3_double_pair299.txt     -80.9		-80.77  1.52  1.50  0.28  2.96  29.6  -81.05  1.889
+tdc1_rung3_double_pair300.txt     -14.76	-11	-11
+tdc1_rung3_double_pair301.txt     26.59		26.63  0.72  0.67  0.29  3.00  30.0  26.91  1.417
+tdc1_rung3_double_pair302.txt     -28.16	-27.16  1.14  0.90  0.71  2.99  29.9  -27.88  1.508
+tdc1_rung3_double_pair303.txt     97.15		-11	-11
+tdc1_rung3_double_pair304.txt     75.66		-11	-11
+tdc1_rung3_double_pair305.txt     -82.39	-11	-11
+tdc1_rung3_double_pair306.txt     -27.12	-28.20  1.09  1.01  0.40  3.06  7.6  -27.80  2.133
+tdc1_rung3_double_pair307.txt     -54.31	-11	-11
+tdc1_rung3_double_pair308.txt     -19.9		-19.79  0.56  0.56  0.06  3.00  30.0  -19.73  1.625
+tdc1_rung3_double_pair309.txt     -21.56	-11	-11
+tdc1_rung3_double_pair310.txt     57.01		57.60  1.32  1.28  0.33  3.03  15.2  57.93  1.909
+tdc1_rung3_double_pair311.txt     -34.46	-34.76  0.48  0.46  0.13  3.09  30.9  -34.89  1.146
+tdc1_rung3_double_pair312.txt     -26.48	-11	-11
+tdc1_rung3_double_pair313.txt     7.25		-11	-11
+tdc1_rung3_double_pair314.txt     30.34		-11	-11
+tdc1_rung3_double_pair315.txt     -25.06	-11	-11
+tdc1_rung3_double_pair316.txt     29.91		-11	-11
+tdc1_rung3_double_pair317.txt     24.14		24.24  1.23  0.80  0.93  2.96  7.4  25.17  1.351
+tdc1_rung3_double_pair318.txt     50.58		-11	-11
+tdc1_rung3_double_pair319.txt     -36.27	-11	-11
+tdc1_rung3_double_pair320.txt     -55.36	-55.74  0.83  0.82  0.13  2.96  29.6  -55.61  1.526
+tdc1_rung3_double_pair321.txt     38.33		38.41  0.96  0.92  0.29  3.04  30.4  38.70  1.451
+tdc1_rung3_double_pair322.txt     -27.13	-11	-11
+tdc1_rung3_double_pair323.txt     -21.06	-20.02  3.54  3.48  0.66  2.99  29.9  -20.67  1.793
+tdc1_rung3_double_pair324.txt     -15.07	-11	-11
+tdc1_rung3_double_pair325.txt     -32.06	-32.93  0.59  0.58  0.11  2.90  29.0  -32.82  1.478
+tdc1_rung3_double_pair326.txt     97.98		-99	-99
+tdc1_rung3_double_pair327.txt     76.66		77.05  1.26  1.02  0.75  3.06  30.6  77.80  1.003
+tdc1_rung3_double_pair328.txt     -46.24	-11	-11
+tdc1_rung3_double_pair329.txt     -46.83	-47.15  2.86  2.71  0.91  2.91  7.3  -46.25  2.377
+tdc1_rung3_double_pair330.txt     -82.94	-80.75  3.84  2.31  3.07  3.06  30.6  -83.82  1.854
+tdc1_rung3_double_pair331.txt     40.35		40.69  1.25  1.25  0.02  3.10  15.5  40.66  1.861
+tdc1_rung3_double_pair332.txt     24.07		25.47  1.00  0.92  0.37  3.02  30.2  25.10  1.296
+tdc1_rung3_double_pair333.txt     -88.02	-88.46  1.36  1.26  0.51  3.01  30.1  -88.97  1.131
+tdc1_rung3_double_pair334.txt     -74.56	-99	-99
+tdc1_rung3_double_pair335.txt     25.46		-11	-11
+tdc1_rung3_double_pair336.txt     -85.52	-87.12  1.33  1.07  0.80  2.97  29.7  -86.32  1.536
+tdc1_rung3_double_pair337.txt     -111.49	-99	-99
+tdc1_rung3_double_pair338.txt     82.76		81.72  2.04  1.80  0.95  3.06  30.6  82.67  1.676
+tdc1_rung3_double_pair339.txt     118.08	-11	-11
+tdc1_rung3_double_pair340.txt     -17.89	-11	-11
+tdc1_rung3_double_pair341.txt     -60.74	-60.33  0.78  0.72  0.32  2.87  28.7  -60.65  1.281
+tdc1_rung3_double_pair342.txt     50.52		-11	-11
+tdc1_rung3_double_pair343.txt     106.6		-99	-99
+tdc1_rung3_double_pair344.txt     37.28		-11	-11
+tdc1_rung3_double_pair345.txt     56.15		-11	-11
+tdc1_rung3_double_pair346.txt     35.3		-99	-99
+tdc1_rung3_double_pair347.txt     81.98		84.29  3.24  2.64  1.88  2.89  28.9  86.17  1.503
+tdc1_rung3_double_pair348.txt     104.09	-11	-11
+tdc1_rung3_double_pair349.txt     -7.6		-11	-11
+tdc1_rung3_double_pair350.txt     -66.53	-65.52  2.48  2.44  0.47  2.94  29.4  -65.99  1.611
+tdc1_rung3_double_pair351.txt     9.81		8.94  0.98  0.97  0.13  3.09  7.7  9.07  2.034
+tdc1_rung3_double_pair352.txt     78.03		78.54  1.22  1.21  0.08  3.17  31.7  78.46  1.224
+tdc1_rung3_double_pair353.txt     40.13		-11	-11
+tdc1_rung3_double_pair354.txt     -22.92	-11	-11
+tdc1_rung3_double_pair355.txt     -21.2		-21.81  0.61  0.56  0.23  2.88  7.2  -21.57  1.828
+tdc1_rung3_double_pair356.txt     -29.31	-11	-11
+tdc1_rung3_double_pair357.txt     -22.16	-11	-11
+tdc1_rung3_double_pair358.txt     17.87		-11	-11
+tdc1_rung3_double_pair359.txt     37.87		38.20  0.59  0.45  0.39  2.90  29.0  38.58  1.622			
+tdc1_rung3_double_pair360.txt     65.98		66.51  0.80  0.79  0.07  2.92  29.2  66.44  1.565
+tdc1_rung3_double_pair361.txt     31.52		-11	-11
+tdc1_rung3_double_pair362.txt     -113.44	-11	-11
+tdc1_rung3_double_pair363.txt     51.35		49.05  2.35  2.03  1.18  3.02  30.2  50.24  1.733
+tdc1_rung3_double_pair364.txt     11.13		9.91  1.13  0.86  0.73  3.02  30.2  10.64  1.627
+tdc1_rung3_double_pair365.txt     -17.5		-11	-11
+tdc1_rung3_double_pair366.txt     -63.12	-62.66  1.02  0.84  0.59  3.08  30.8  -63.25  1.980
+tdc1_rung3_double_pair367.txt     47.25		48.28  1.84  1.59  0.94  3.07  30.7  47.34  2.807
+tdc1_rung3_double_pair368.txt     -66.4		-11	-11
+tdc1_rung3_double_pair369.txt     -27.55	-28.58  0.70  0.68  0.17  2.92  29.2  -28.41  1.456
+tdc1_rung3_double_pair370.txt     -15.63	-11	-11
+tdc1_rung3_double_pair371.txt     45.85		46.52  1.03  0.94  0.44  3.03  30.3  46.08  1.837
+tdc1_rung3_double_pair372.txt     97.92		-11	-11
+tdc1_rung3_double_pair373.txt     -40.56	-11	-11
+tdc1_rung3_double_pair374.txt     41.63		42.19  0.67  0.67  0.10  3.08  30.8  42.09  1.364
+tdc1_rung3_double_pair375.txt     65.95		64.66  1.13  0.96  0.59  2.92  29.2  65.25  1.082
+tdc1_rung3_double_pair376.txt     93.88		93.93  1.63  1.52  0.58  2.94  29.4  94.51  1.260
+tdc1_rung3_double_pair377.txt     -25.11	-11	-11
+tdc1_rung3_double_pair378.txt     -36.81	-11	-11
+tdc1_rung3_double_pair379.txt     -5.65		-11	-11
+tdc1_rung3_double_pair380.txt     69.82		68.65  1.91  1.60  1.05  2.99  7.5  69.70  2.920
+tdc1_rung3_double_pair381.txt     43.75		43.37  0.74  0.68  0.30  2.97  29.7  43.67  1.655
+tdc1_rung3_double_pair382.txt     21.2		21.52  0.83  0.75  0.37  3.03  30.3  21.15  1.970
+tdc1_rung3_double_pair383.txt     -12.59	-99	-99
+tdc1_rung3_double_pair384.txt     -8.44		-11	-11
+tdc1_rung3_double_pair385.txt     -113.4	-99	-99
+tdc1_rung3_double_pair386.txt     -39.44	-11	-11
+tdc1_rung3_double_pair387.txt     50.72		51.62  0.97  0.88  0.40  2.97  29.7  51.22  1.238
+tdc1_rung3_double_pair388.txt     -12.07	-11.65  0.93  0.57  0.73  3.05  15.3  -12.38  1.494
+tdc1_rung3_double_pair389.txt     -26.36	-11	-11
+tdc1_rung3_double_pair390.txt     119.0		-99	-99
+tdc1_rung3_double_pair391.txt     -13.04	-12.66  0.56  0.55  0.10  2.89  28.9  -12.76  1.539
+tdc1_rung3_double_pair392.txt     -51.9		-52.92  1.25  1.25  0.06  3.07  30.7  -52.86  1.531
+tdc1_rung3_double_pair393.txt     32.78		-99	-99
+tdc1_rung3_double_pair394.txt     -73.39	-73.01  3.16  3.11  0.56  3.10  15.5  -73.57  2.709
+tdc1_rung3_double_pair395.txt     -24.06	-23.98  0.75  0.63  0.41  2.90  29.0  -24.39  1.285
+tdc1_rung3_double_pair396.txt     78.46		79.53  0.81  0.76  0.29  3.06  30.6  79.24  1.932
+tdc1_rung3_double_pair397.txt     44.33		42.70  2.33  2.18  0.83  2.93  7.3  43.53  2.139
+tdc1_rung3_double_pair398.txt     -40.8		-39.90  1.93  1.88  0.42  3.04  30.4  -39.47  1.796
+tdc1_rung3_double_pair399.txt     -5.78		-11	-11
+tdc1_rung3_double_pair400.txt     -45.02	-47.19  2.39  2.29  0.70  3.14  31.4  -46.49  2.054
+tdc1_rung3_double_pair401.txt     -118.48	-99	-99
+tdc1_rung3_double_pair402.txt     -112.69	-99	-99
+tdc1_rung3_double_pair403.txt     -97.03	-11	-11
+tdc1_rung3_double_pair404.txt     46.29		-11	-11
+tdc1_rung3_double_pair405.txt     -79.1		-77.98  2.60  2.53  0.61  3.07  7.7  -78.59  2.452
+tdc1_rung3_double_pair406.txt     -76.31	-11	-11
+tdc1_rung3_double_pair407.txt     -26.86	-11	-11
+tdc1_rung3_double_pair408.txt     -38.89	-39.20  0.77  0.58  0.50  3.16  31.6  -39.70  1.397
+tdc1_rung3_double_pair409.txt     15.98		-11	-11
+tdc1_rung3_double_pair410.txt     76.66		75.47  3.96  3.52  1.82  3.09  247.0  77.29  1.769
+tdc1_rung3_double_pair411.txt     -45.03	-45.38  0.64  0.57  0.28  2.96  29.6  -45.66  1.857
+tdc1_rung3_double_pair412.txt     -15.68	-15.91  0.49  0.48  0.11  2.96  29.6  -15.80  1.449
+tdc1_rung3_double_pair413.txt     46.39		47.73  1.57  1.11  1.11  3.12  31.2  46.62  1.888
+tdc1_rung3_double_pair414.txt     14.46		-11	-11
+tdc1_rung3_double_pair415.txt     -23.92	-24.11  0.64  0.61  0.22  2.89  14.5  -23.90  1.959
+tdc1_rung3_double_pair416.txt     -18.44	-11	-11
+tdc1_rung3_double_pair417.txt     14.36		-11	-11
+tdc1_rung3_double_pair418.txt     -72.75	-71.34  1.41  1.04  0.95  3.02  30.2  -72.30  1.721
+tdc1_rung3_double_pair419.txt     -68.67	-11	-11
+tdc1_rung3_double_pair420.txt     45.34		-11	-11
+tdc1_rung3_double_pair421.txt     76.24		-11	-11
+tdc1_rung3_double_pair422.txt     64.34		-11	-11
+tdc1_rung3_double_pair423.txt     31.52		30.76  2.24  1.94  1.12  2.97  7.4  31.88  1.360
+tdc1_rung3_double_pair424.txt     22.43		21.59  1.80  1.79  0.02  3.05  30.5  21.62  1.789
+tdc1_rung3_double_pair425.txt     -96.61	-11	-11
+tdc1_rung3_double_pair426.txt     -41.72	-45.35  5.06  4.81  1.59  3.04  15.2  -43.76  2.443
+tdc1_rung3_double_pair427.txt     32.13		-11	-11
+tdc1_rung3_double_pair428.txt     41.88		42.24  1.02  1.00  0.18  2.86  28.6  42.42  1.913
+tdc1_rung3_double_pair429.txt     39.16		-11	-11
+tdc1_rung3_double_pair430.txt     39.93		39.13  0.74  0.60  0.43  3.17  15.9  39.56  1.425
+tdc1_rung3_double_pair431.txt     -7.92		-11	-11
+tdc1_rung3_double_pair432.txt     41.9		42.49  1.22  1.08  0.58  2.88  28.8  41.91  1.952
+tdc1_rung3_double_pair433.txt     9.96		-11	-11
+tdc1_rung3_double_pair434.txt     -53.96	-53.05  2.42  2.41  0.21  3.01  30.1  -53.26  1.953
+tdc1_rung3_double_pair435.txt     31.18		32.58  0.58  0.58  0.01  3.06  30.6  32.57  1.721
+tdc1_rung3_double_pair436.txt     26.48		-11	-11
+tdc1_rung3_double_pair437.txt     10.97		-11	-11
+tdc1_rung3_double_pair438.txt     102.42	-11	-11
+tdc1_rung3_double_pair439.txt     -26.53	-25.67  0.72  0.62  0.36  3.00  30.0  -26.03  1.336
+tdc1_rung3_double_pair440.txt     12.45		12.33  0.74  0.53  0.51  2.97  29.7  12.85  1.679
+tdc1_rung3_double_pair441.txt     85.09		87.19  2.21  2.07  0.77  2.90  29.0  87.96  1.905
+tdc1_rung3_double_pair442.txt     104.16	-99	-99
+tdc1_rung3_double_pair443.txt     51.11		-11	-11
+tdc1_rung3_double_pair444.txt     26.12		23.70  4.46  4.31  1.14  2.87  7.2  24.83  2.267
+tdc1_rung3_double_pair445.txt     -44.97	-45.69  1.01  1.01  0.10  2.95  29.5  -45.59  1.504
+tdc1_rung3_double_pair446.txt     -18.97	-11	-11
+tdc1_rung3_double_pair447.txt     -109.51	-11	-11
+tdc1_rung3_double_pair448.txt     56.59		-11	-11
+tdc1_rung3_double_pair449.txt     -81.26	-99	-99
+tdc1_rung3_double_pair450.txt     -88.81	-99	-99
+tdc1_rung3_double_pair451.txt     -28.88	-29.17  0.48  0.42  0.22  3.03  30.3  -28.94  1.634
+tdc1_rung3_double_pair452.txt     -11.88	-11.01  2.63  2.27  1.33  2.91  7.3  -12.35  2.718
+tdc1_rung3_double_pair453.txt     91.59		90.67  1.79  1.61  0.80  2.99  29.9  91.46  1.202
+tdc1_rung3_double_pair454.txt     -97.3		-99	-99
+tdc1_rung3_double_pair455.txt     -43.81	-43.77  1.21  1.09  0.52  3.00  30.0  -43.25  1.746
+tdc1_rung3_double_pair456.txt     90.58		-99	-99
+tdc1_rung3_double_pair457.txt     -60.99	-59.80  1.70  1.66  0.39  3.02  30.2  -59.41  1.403
+tdc1_rung3_double_pair458.txt     -20.76	-99	-99
+tdc1_rung3_double_pair459.txt     -45.94	-45.90  0.71  0.71  0.08  3.05  30.5  -45.81  1.411
+tdc1_rung3_double_pair460.txt     41.2		-11	-11
+tdc1_rung3_double_pair461.txt     82.96		82.82  0.93  0.85  0.36  3.00  30.0  83.18  0.984
+tdc1_rung3_double_pair462.txt     -71.18	-70.48  0.97  0.64  0.73  2.98  29.8  -71.21  1.174
+tdc1_rung3_double_pair463.txt     -86.73	-11	-11
+tdc1_rung3_double_pair464.txt     12.72		-11	-11
+tdc1_rung3_double_pair465.txt     79.07		-11	-11
+tdc1_rung3_double_pair466.txt     18.18		18.16  0.44  0.35  0.26  3.08  30.8  18.42  1.141
+tdc1_rung3_double_pair467.txt     -10.13	-8.40  2.16  1.83  1.15  3.09  30.9  -9.56  1.825
+tdc1_rung3_double_pair468.txt     -38.04	-40.02  3.91  3.90  0.36  3.25  32.5  -40.38  2.041
+tdc1_rung3_double_pair469.txt     90.25		89.63  3.62  2.82  2.26  2.93  234.3  91.89  1.630
+tdc1_rung3_double_pair470.txt     -11.82	-11	-11
+tdc1_rung3_double_pair471.txt     -93.74	-95.91  2.30  2.30  0.06  2.97  475.3  -95.97  2.132
+tdc1_rung3_double_pair472.txt     -44.37	-43.28  0.91  0.58  0.70  2.94  14.7  -43.98  1.901
+tdc1_rung3_double_pair473.txt     -21.83	-21.09  2.09  2.09  0.14  3.06  7.7  -21.23  2.124
+tdc1_rung3_double_pair474.txt     -31.22	-11	-11
+tdc1_rung3_double_pair475.txt     116.88	-99	-99
+tdc1_rung3_double_pair476.txt     10.33		-11	-11
+tdc1_rung3_double_pair477.txt     -36.35	-99	-99
+tdc1_rung3_double_pair478.txt     -45.96	-11	-11
+tdc1_rung3_double_pair479.txt     71.01		-11	-11
+tdc1_rung3_double_pair480.txt     88.26		86.53  2.03  1.53  1.33  2.89  462.2  87.86  1.710
+tdc1_rung3_double_pair481.txt     -11.76	-11.51  0.90  0.74  0.51  3.02  30.2  -12.02  1.676
+tdc1_rung3_double_pair482.txt     61.37		-11	-11
+tdc1_rung3_double_pair483.txt     30.48		-99	-99
+tdc1_rung3_double_pair484.txt     -31.76	-31.19  1.22  0.98  0.73  2.95  29.5  -31.92  1.390
+tdc1_rung3_double_pair485.txt     -30.01	-31.05  0.62  0.56  0.28  3.00  30.0  -30.77  1.728
+tdc1_rung3_double_pair486.txt     -58.53	-11	-11
+tdc1_rung3_double_pair487.txt     -28.69	-30.40  1.81  1.70  0.61  2.94  7.3  -29.79  1.698
+tdc1_rung3_double_pair488.txt     100.51	-11	-11
+tdc1_rung3_double_pair489.txt     -88.26	-11	-11
+tdc1_rung3_double_pair490.txt     -91.52	-99	-99
+tdc1_rung3_double_pair491.txt     -47.36	-11	-11
+tdc1_rung3_double_pair492.txt     32.63		-11	-11
+tdc1_rung3_double_pair493.txt     116.94	-99	-99
+tdc1_rung3_double_pair494.txt     -44.25	-11	-11
+tdc1_rung3_double_pair495.txt     12.14		-11	-11
+tdc1_rung3_double_pair496.txt     -38.57	-11	-11
+tdc1_rung3_double_pair497.txt     -70.89	-67.65  6.77  6.76  0.20  2.92  467.5  -67.85  1.779
+tdc1_rung3_double_pair498.txt     80.79		79.54  1.18  0.87  0.79  2.96  29.6  80.33  1.158
+tdc1_rung3_double_pair499.txt     66.23		66.48  0.76  0.62  0.45  2.91  29.1  66.93  1.504
+tdc1_rung3_double_pair500.txt     91.58		93.69  1.79  1.71  0.54  2.96  474.0  94.23  1.790
+tdc1_rung3_double_pair501.txt     -17.45	-18.06  1.17  0.89  0.76  3.11  7.8  -18.82  2.046
+tdc1_rung3_double_pair502.txt     47.58		-11	-11
+tdc1_rung3_double_pair503.txt     13.43		-11	-11
+tdc1_rung3_double_pair504.txt     57.17		-11	-11
+tdc1_rung3_double_pair505.txt     -91.89	-92.94  0.94  0.94  0.00  2.88  28.8  -92.94  1.012
+tdc1_rung3_double_pair506.txt     -30.77	-31.64  0.73  0.73  0.08  3.05  30.5  -31.55  1.917
+tdc1_rung3_double_pair507.txt     49.6		51.94  2.09  2.07  0.28  3.12  7.8  51.66  2.006
+tdc1_rung3_double_pair508.txt     108.91	-99	-99
+tdc1_rung3_double_pair509.txt     -42.51	-11	-11
+tdc1_rung3_double_pair510.txt     112.3		-11	-11
+tdc1_rung3_double_pair511.txt     -13.69	-11	-11
+tdc1_rung3_double_pair512.txt     50.58		-11	-11
+tdc1_rung3_double_pair513.txt     -96.8		-101.65  5.18  4.75  2.06  3.14  502.0  -99.58  1.632
+tdc1_rung3_double_pair514.txt     -42.16	-42.06  0.76  0.61  0.45  3.02  15.1  -42.51  1.959
+tdc1_rung3_double_pair515.txt     -26.7		-11	-11
+tdc1_rung3_double_pair516.txt     55.37		-11	-11
+tdc1_rung3_double_pair517.txt     33.1		-11	-11
+tdc1_rung3_double_pair518.txt     -81.69	-81.50  0.97  0.80  0.55  3.04  30.4  -82.06  1.241
+tdc1_rung3_double_pair519.txt     42.85		-11	-11
+tdc1_rung3_double_pair520.txt     -82.28	-83.23  1.80  1.77  0.37  2.93  29.3  -82.86  1.713
+tdc1_rung3_double_pair521.txt     -28.96	-28.26  0.76  0.47  0.60  3.08  30.8  -28.86  1.235
+tdc1_rung3_double_pair522.txt     -25.72	-26.83  2.52  2.06  1.45  2.99  14.9  -25.37  1.968
+tdc1_rung3_double_pair523.txt     53.48		-11	-11
+tdc1_rung3_double_pair524.txt     -40.34	-11	-11
+tdc1_rung3_double_pair525.txt     33.85		34.34  1.65  1.32  0.99  3.03  7.6  35.33  1.725
+tdc1_rung3_double_pair526.txt     -13.06	-11	-11
+tdc1_rung3_double_pair527.txt     -64.34	-11	-11
+tdc1_rung3_double_pair528.txt     -18.43	-17.80  0.65  0.49  0.42  2.91  29.1  -18.22  1.802
+tdc1_rung3_double_pair529.txt     78.42		79.52  3.35  3.34  0.16  3.00  7.5  79.36  1.990
+tdc1_rung3_double_pair530.txt     108.82	-11	-11
+tdc1_rung3_double_pair531.txt     21.83		-11	-11
+tdc1_rung3_double_pair532.txt     26.3		-11	-11
+tdc1_rung3_double_pair533.txt     -48.49	-99	-99
+tdc1_rung3_double_pair534.txt     -20.02	-19.27  0.46  0.46  0.01  2.96  29.6  -19.28  1.771
+tdc1_rung3_double_pair535.txt     -112.15	-11	-11
+tdc1_rung3_double_pair536.txt     87.48		87.98  1.14  0.86  0.75  3.05  30.5  88.73  1.431
+tdc1_rung3_double_pair537.txt     -71.98	-72.54  1.12  1.10  0.21  3.00  30.0  -72.33  1.498
+tdc1_rung3_double_pair538.txt     73.73		72.39  2.82  2.52  1.27  3.01  30.1  73.67  1.523
+tdc1_rung3_double_pair539.txt     117.69	-99	-99
+tdc1_rung3_double_pair540.txt     31.66		30.88  1.67  1.39  0.93  2.96  29.6  31.81  1.576
+tdc1_rung3_double_pair541.txt     36.93		37.62  0.68  0.55  0.41  3.00  30.0  37.22  1.163
+tdc1_rung3_double_pair542.txt     41.69		-11	-11
+tdc1_rung3_double_pair543.txt     13.78		13.12  1.92  1.85  0.53  3.11  31.1  13.65  1.920
+tdc1_rung3_double_pair544.txt     82.02		83.01  1.23  1.13  0.49  3.12  31.2  83.50  1.369
+tdc1_rung3_double_pair545.txt     -58.96	-11	-11
+tdc1_rung3_double_pair546.txt     14.24		-11	-11
+tdc1_rung3_double_pair547.txt     -102.17	-11	-11
+tdc1_rung3_double_pair548.txt     -14.12	-13.92  0.65  0.64  0.16  3.02  7.6  -14.08  1.842
+tdc1_rung3_double_pair549.txt     29.81		30.38  1.04  1.01  0.23  3.12  31.2  30.15  2.459
+tdc1_rung3_double_pair550.txt     70.67		70.91  2.83  2.79  0.52  3.06  30.6  70.39  1.490
+tdc1_rung3_double_pair551.txt     75.62		76.25  1.36  1.24  0.56  2.96  7.4  75.69  1.966
+tdc1_rung3_double_pair552.txt     21.27		21.88  0.90  0.88  0.20  2.90  14.5  21.68  1.812
+tdc1_rung3_double_pair553.txt     -32.48	-11	-11
+tdc1_rung3_double_pair554.txt     66.17		-99	-99
+tdc1_rung3_double_pair555.txt     71.73		-11	-11
+tdc1_rung3_double_pair556.txt     -23.65	-11	-11
+tdc1_rung3_double_pair557.txt     -84.43	-83.93  1.85  1.38  1.23  3.01  240.9  -85.16  1.650
+tdc1_rung3_double_pair558.txt     16.23		15.78  0.97  0.94  0.21  3.16  15.8  15.57  1.689
+tdc1_rung3_double_pair559.txt     -72.63	-72.76  0.74  0.74  0.05  2.96  29.6  -72.81  1.517
+tdc1_rung3_double_pair560.txt     -63.96	-64.32  0.71  0.70  0.13  2.96  29.6  -64.19  1.417
+tdc1_rung3_double_pair561.txt     38.21		37.06  1.84  1.82  0.23  2.99  15.0  36.84  1.955
+tdc1_rung3_double_pair562.txt     52.41		54.71  2.24  2.24  0.02  2.98  29.8  54.69  1.374
+tdc1_rung3_double_pair563.txt     43.99		43.84  0.84  0.78  0.31  3.01  30.1  44.14  1.528
+tdc1_rung3_double_pair564.txt     -62.15	-62.67  0.84  0.84  0.03  3.11  31.1  -62.64  1.840
+tdc1_rung3_double_pair565.txt     12.07		11.54  1.48  1.34  0.64  2.92  29.2  12.18  1.512
+tdc1_rung3_double_pair566.txt     -28.3		-11	-11
+tdc1_rung3_double_pair567.txt     41.7		41.51  0.92  0.88  0.26  3.11  15.6  41.77  1.954
+tdc1_rung3_double_pair568.txt     88.77		-11	-11
+tdc1_rung3_double_pair569.txt     93.93		94.31  1.30  1.08  0.71  2.97  29.7  95.02  0.993
+tdc1_rung3_double_pair570.txt     -28.21	-11	-11
+tdc1_rung3_double_pair571.txt     -7.14		-11	-11
+tdc1_rung3_double_pair572.txt     -73.4		-72.78  2.02  1.63  1.20  3.06  30.6  -73.98  1.675
+tdc1_rung3_double_pair573.txt     -55.05	-55.28  0.98  0.96  0.22  3.07  30.7  -55.50  1.425
+tdc1_rung3_double_pair574.txt     -42.13	-11	-11
+tdc1_rung3_double_pair575.txt     72.9		-11	-11
+tdc1_rung3_double_pair576.txt     56.2		-11	-11
+tdc1_rung3_double_pair577.txt     20.93		20.24  0.87  0.77  0.41  3.17  31.7  20.64  1.697
+tdc1_rung3_double_pair578.txt     -13.49	-99	-99
+tdc1_rung3_double_pair579.txt     43.75		43.04  2.12  1.79  1.14  3.09  30.9  44.18  1.224
+tdc1_rung3_double_pair580.txt     75.08		73.27  1.88  1.51  1.13  2.98  29.8  74.40  1.574
+tdc1_rung3_double_pair581.txt     22.38		-11	-11
+tdc1_rung3_double_pair582.txt     20.53		20.77  0.50  0.50  0.07  3.01  30.1  20.70  1.146
+tdc1_rung3_double_pair583.txt     13.26		-11	-11
+tdc1_rung3_double_pair584.txt     27.13		27.31  0.48  0.48  0.05  3.10  31.0  27.26  1.830
+tdc1_rung3_double_pair585.txt     37.48		-11	-11
+tdc1_rung3_double_pair586.txt     39.77		38.54  0.95  0.88  0.37  3.11  31.1  38.91  1.496
+tdc1_rung3_double_pair587.txt     -27.92	-28.02  0.77  0.76  0.08  3.06  30.6  -28.10  1.860
+tdc1_rung3_double_pair588.txt     28.24		-11	-11
+tdc1_rung3_double_pair589.txt     -21.15	-11	-11
+tdc1_rung3_double_pair590.txt     -54.88	-99	-99
+tdc1_rung3_double_pair591.txt     -28.32	-11	-11
+tdc1_rung3_double_pair592.txt     -35.44	-11	-11
+tdc1_rung3_double_pair593.txt     -77.37	-77.04  0.62  0.62  0.01  2.96  29.6  -77.06  1.169
+tdc1_rung3_double_pair594.txt     -119.53	-99	-99
+tdc1_rung3_double_pair595.txt     -101.14	-102.50  1.98  1.88  0.65  3.01  962.4  -101.85  1.419
+tdc1_rung3_double_pair596.txt     23.31		22.83  1.04  0.89  0.55  2.98  29.8  23.37  1.947
+tdc1_rung3_double_pair597.txt     107.35	-11	-11
+tdc1_rung3_double_pair598.txt     76.57		-11	-11
+tdc1_rung3_double_pair599.txt     -80.63	-81.75  2.26  1.71  1.48  3.15  31.5  -83.23  1.849
+tdc1_rung3_double_pair600.txt     -84.91	-86.19  3.52  3.25  1.34  2.87  459.7  -87.53  1.707
+tdc1_rung3_double_pair601.txt     -82.13	-79.66  2.45  2.00  1.42  3.01  240.5  -81.09  1.699
+tdc1_rung3_double_pair602.txt     25.21		24.92  0.56  0.39  0.40  2.99  29.9  25.32  1.109
+tdc1_rung3_double_pair603.txt     27.2		-11	-11
+tdc1_rung3_double_pair604.txt     -9.97		-10.22  0.57  0.56  0.08  3.02  30.2  -10.30  1.797
+tdc1_rung3_double_pair605.txt     114.67	-99	-99
+tdc1_rung3_double_pair606.txt     -54.99	-57.19  3.16  3.15  0.20  3.09  15.4  -56.99  2.106
+tdc1_rung3_double_pair607.txt     65.29		65.08  2.13  1.76  1.19  2.92  29.2  66.27  2.102
+tdc1_rung3_double_pair608.txt     53.09		-11	-11
+tdc1_rung3_double_pair609.txt     -92.23	-99	-99
+tdc1_rung3_double_pair610.txt     -71.07	-71.84  0.92  0.77  0.50  2.97  29.7  -72.34  1.544
+tdc1_rung3_double_pair611.txt     -88.08	-87.84  0.96  0.95  0.11  3.02  30.2  -87.94  1.073
+tdc1_rung3_double_pair612.txt     62.59		62.29  0.85  0.83  0.21  3.03  15.2  62.08  1.619
+tdc1_rung3_double_pair613.txt     52.55		52.10  0.84  0.82  0.17  2.91  7.3  52.28  1.473
+tdc1_rung3_double_pair614.txt     88.01		-11	-11
+tdc1_rung3_double_pair615.txt     -9.26		-8.59  2.05  2.04  0.16  3.06  15.3  -8.75  1.790
+tdc1_rung3_double_pair616.txt     -36.25	-35.97  0.60  0.45  0.40  2.88  28.8  -36.37  1.701
+tdc1_rung3_double_pair617.txt     61.4		61.64  4.00  3.98  0.37  2.99  478.4  62.01  1.999
+tdc1_rung3_double_pair618.txt     -111.04	-99	-99
+tdc1_rung3_double_pair619.txt     57.72		57.91  0.55  0.54  0.11  2.94  29.4  58.02  1.244
+tdc1_rung3_double_pair620.txt     47.28		46.99  2.89  2.56  1.35  2.90  29.0  48.34  1.334
+tdc1_rung3_double_pair621.txt     -75.24	-75.71  0.58  0.56  0.17  3.01  30.1  -75.88  1.030
+tdc1_rung3_double_pair622.txt     -118.0	-11	-11
+tdc1_rung3_double_pair623.txt     -118.27	-99	-99
+tdc1_rung3_double_pair624.txt     60.77		-99	-99
+tdc1_rung3_double_pair625.txt     10.92		10.78  1.05  1.03  0.19  2.92  7.3  10.59  2.116
+tdc1_rung3_double_pair626.txt     -79.61	-11	-11
+tdc1_rung3_double_pair627.txt     114.4		-99	-99
+tdc1_rung3_double_pair628.txt     17.68		-11	-11
+tdc1_rung3_double_pair629.txt     46.7		46.60  0.67  0.57  0.35  3.01  30.1  46.95  1.775
+tdc1_rung3_double_pair630.txt     -18.27	-17.99  1.08  0.96  0.49  3.01  7.5  -18.48  1.552
+tdc1_rung3_double_pair631.txt     29.1		28.49  0.59  0.59  0.02  2.87  28.7  28.46  1.838
+tdc1_rung3_double_pair632.txt     -20.13	-11	-11
+tdc1_rung3_double_pair633.txt     -8.35		-11	-11
+tdc1_rung3_double_pair634.txt     -5.13		-11	-11
+tdc1_rung3_double_pair635.txt     -21.04	-21.63  0.71  0.63  0.33  2.88  28.8  -21.96  1.671
+tdc1_rung3_double_pair636.txt     -50.81	-51.69  0.69  0.56  0.41  3.06  30.6  -52.10  1.480
+tdc1_rung3_double_pair637.txt     -98.5		-97.57  1.97  1.56  1.19  3.03  30.3  -98.76  1.440
+tdc1_rung3_double_pair638.txt     -92.46	-11	-11
+tdc1_rung3_double_pair639.txt     11.75		-11	-11
+tdc1_rung3_double_pair640.txt     66.85		67.78  0.92  0.85  0.37  2.94  29.4  68.15  1.186
+tdc1_rung3_double_pair641.txt     -104.5	-102.92  2.49  1.79  1.73  2.97  475.5  -104.65  2.073
+tdc1_rung3_double_pair642.txt     42.39		42.63  0.54  0.51  0.18  3.07  15.4  42.82  1.172
+tdc1_rung3_double_pair643.txt     -13.85	-14.02  0.77  0.77  0.03  2.99  15.0  -13.99  1.324
+tdc1_rung3_double_pair644.txt     -22.23	-11	-11
+tdc1_rung3_double_pair645.txt     -31.08	-31.83  1.08  1.03  0.33  2.94  29.4  -31.50  1.975
+tdc1_rung3_double_pair646.txt     -27.2		-27.36  1.06  0.84  0.66  2.99  15.0  -26.70  1.989
+tdc1_rung3_double_pair647.txt     -56.4		-56.83  0.84  0.71  0.45  2.86  28.6  -57.28  1.528
+tdc1_rung3_double_pair648.txt     81.14		-11	-11
+tdc1_rung3_double_pair649.txt     -19.18	-19.73  1.45  1.39  0.39  3.03  15.2  -20.12  1.476
+tdc1_rung3_double_pair650.txt     -101.46	-11	-11
+tdc1_rung3_double_pair651.txt     25.6		-11	-11
+tdc1_rung3_double_pair652.txt     54.72		55.46  1.19  1.06  0.55  2.77  13.9  54.91  1.936
+tdc1_rung3_double_pair653.txt     -77.22	-77.30  1.01  0.91  0.45  3.00  30.0  -77.74  1.394
+tdc1_rung3_double_pair654.txt     -15.72	-15.71  0.75  0.47  0.58  3.02  30.2  -16.29  1.676
+tdc1_rung3_double_pair655.txt     23.39		23.55  0.62  0.37  0.50  3.01  30.1  23.06  1.701
+tdc1_rung3_double_pair656.txt     -21.25	-11	-11
+tdc1_rung3_double_pair657.txt     12.82		-11	-11
+tdc1_rung3_double_pair658.txt     -95.15	-97.68  1.19  1.16  0.27  2.90  29.0  -97.41  1.833
+tdc1_rung3_double_pair659.txt     45.14		44.92  0.63  0.54  0.32  2.94  14.7  45.24  1.614
+tdc1_rung3_double_pair660.txt     22.02		-11	-11
+tdc1_rung3_double_pair661.txt     -111.8	-99	-99
+tdc1_rung3_double_pair662.txt     -112.98	-99	-99
+tdc1_rung3_double_pair663.txt     11.15		11.11  0.50  0.49  0.10  2.97  29.7  11.02  1.192
+tdc1_rung3_double_pair664.txt     29.24		-11	-11
+tdc1_rung3_double_pair665.txt     -19.64	-11	-11
+tdc1_rung3_double_pair666.txt     38.25		35.88  2.45  1.40  2.01  3.00  30.0  37.89  1.570
+tdc1_rung3_double_pair667.txt     -11.48	-12.03  2.10  2.04  0.50  3.09  7.7  -12.53  2.070
+tdc1_rung3_double_pair668.txt     8.28		-99	-99
+tdc1_rung3_double_pair669.txt     38.75		37.14  1.79  1.61  0.79  3.09  30.9  37.94  1.921
+tdc1_rung3_double_pair670.txt     -19.63	-11	-11
+tdc1_rung3_double_pair671.txt     -53.38	-11	-11
+tdc1_rung3_double_pair672.txt     98.21		-11	-11
+tdc1_rung3_double_pair673.txt     -38.04	-11	-11
+tdc1_rung3_double_pair674.txt     -39.3		-39.89  0.95  0.85  0.43  3.17  31.7  -39.46  2.261
+tdc1_rung3_double_pair675.txt     61.52		62.20  1.09  1.04  0.33  3.07  30.7  62.53  1.029
+tdc1_rung3_double_pair676.txt     13.27		12.91  0.80  0.80  0.05  3.02  7.5  12.96  2.046
+tdc1_rung3_double_pair677.txt     -86.0		-85.41  2.62  2.34  1.18  3.02  30.2  -86.59  1.490
+tdc1_rung3_double_pair678.txt     92.01		-99	-99
+tdc1_rung3_double_pair679.txt     -16.05	-16.94  1.12  0.80  0.78  3.15  15.8  -16.16  1.860
+tdc1_rung3_double_pair680.txt     -17.83	-18.04  1.02  0.79  0.64  3.04  30.4  -18.68  1.377
+tdc1_rung3_double_pair681.txt     -67.67	-69.40  2.72  2.72  0.16  2.94  29.4  -69.25  1.565
+tdc1_rung3_double_pair682.txt     117.61	-99	-99
+tdc1_rung3_double_pair683.txt     31.79		-11	-11
+tdc1_rung3_double_pair684.txt     -27.55	-27.52  1.51  1.49  0.18  3.02  7.5  -27.70  1.570
+tdc1_rung3_double_pair685.txt     -60.61	-11	-11
+tdc1_rung3_double_pair686.txt     -98.75	-97.12  2.61  2.35  1.13  2.89  463.0  -98.24  2.435
+tdc1_rung3_double_pair687.txt     -66.41	-66.99  1.34  1.34  0.02  2.91  29.1  -66.97  1.291
+tdc1_rung3_double_pair688.txt     15.52		14.99  0.81  0.80  0.13  2.97  7.4  15.12  1.710
+tdc1_rung3_double_pair689.txt     47.26		47.16  1.00  0.71  0.71  3.01  30.1  47.87  1.864
+tdc1_rung3_double_pair690.txt     41.04		36.71  7.33  6.07  4.10  2.92  29.2  40.81  2.213
+tdc1_rung3_double_pair691.txt     -113.01	-99	-99
+tdc1_rung3_double_pair692.txt     -81.02	-11	-11
+tdc1_rung3_double_pair693.txt     99.38		101.05  1.17  1.15  0.24  2.99  477.9  101.29  1.240
+tdc1_rung3_double_pair694.txt     99.77		-11	-11
+tdc1_rung3_double_pair695.txt     -38.54	-11	-11
+tdc1_rung3_double_pair696.txt     6.04		-99	-99
+tdc1_rung3_double_pair697.txt     16.17		16.10  0.81  0.73  0.35  3.04  30.4  16.44  1.837
+tdc1_rung3_double_pair698.txt     -13.29	-11	-11
+tdc1_rung3_double_pair699.txt     -73.42	-72.95  1.44  0.70  1.26  3.01  30.1  -74.21  1.486
+tdc1_rung3_double_pair700.txt     -26.97	-11	-11
+tdc1_rung3_double_pair701.txt     -54.71	-11	-11
+tdc1_rung3_double_pair702.txt     63.52		60.44  5.13  3.23  3.99  3.02  15.1  64.43  1.873
+tdc1_rung3_double_pair703.txt     52.62		52.32  0.81  0.61  0.54  3.00  30.0  52.86  1.601
+tdc1_rung3_double_pair704.txt     -7.77		-8.54  0.45  0.39  0.22  3.03  30.3  -8.32  1.420
+tdc1_rung3_double_pair705.txt     -11.87	-11	-11
+tdc1_rung3_double_pair706.txt     12.25		12.59  0.40  0.39  0.10  2.87  28.7  12.69  1.679
+tdc1_rung3_double_pair707.txt     -79.94	-11	-11
+tdc1_rung3_double_pair708.txt     -76.18	-75.95  2.39  2.38  0.25  3.09  30.9  -76.20  1.484
+tdc1_rung3_double_pair709.txt     33.95		34.22  0.61  0.59  0.15  3.07  30.7  34.07  1.901
+tdc1_rung3_double_pair710.txt     -28.02	-11	-11
+tdc1_rung3_double_pair711.txt     9.21		8.22  0.81  0.71  0.39  2.97  7.4  8.61  1.772
+tdc1_rung3_double_pair712.txt     50.25		49.99  1.13  1.10  0.25  3.14  31.4  50.23  1.529
+tdc1_rung3_double_pair713.txt     -33.79	-33.63  0.46  0.46  0.00  2.99  29.9  -33.63  1.402
+tdc1_rung3_double_pair714.txt     57.59		-11	-11
+tdc1_rung3_double_pair715.txt     -8.2		-11	-11
+tdc1_rung3_double_pair716.txt     29.4		25.26  3.20  3.01  1.09  3.01  30.1  26.34  1.941
+tdc1_rung3_double_pair717.txt     11.66		11.61  0.58  0.49  0.30  2.80  28.0  11.92  1.642
+tdc1_rung3_double_pair718.txt     -27.69	-11	-11
+tdc1_rung3_double_pair719.txt     -111.15	-99	-99
+tdc1_rung3_double_pair720.txt     -89.93	-94.16  4.53  4.42  0.99  2.89  462.3  -95.15  1.261
+tdc1_rung3_quad_pair1A.txt     11.24		10.93  0.78  0.60  0.49  3.08  30.8  11.42  1.329
+tdc1_rung3_quad_pair1B.txt     72.28		-11	-11
+tdc1_rung3_quad_pair2A.txt     5.74		5.19  0.91  0.91  0.08  2.99  29.9  5.26  1.928
+tdc1_rung3_quad_pair2B.txt     88.67		-11	-11
+tdc1_rung3_quad_pair3A.txt     22.4		22.37  0.51  0.46  0.23  3.14  31.4  22.60  1.773
+tdc1_rung3_quad_pair3B.txt     16.47		16.69  0.38  0.38  0.00  3.14  31.4  16.69  1.881
+tdc1_rung3_quad_pair4A.txt     56.91		55.26  5.58  4.93  2.62  3.09  61.7  57.88  2.483
+tdc1_rung3_quad_pair4B.txt     5.22		5.40  0.63  0.56  0.29  3.07  30.7  5.69  1.673
+tdc1_rung3_quad_pair5A.txt     5.76		6.09  0.69  0.66  0.20  3.09  15.4  5.90  1.812
+tdc1_rung3_quad_pair5B.txt     66.13		-11	-11
+tdc1_rung3_quad_pair6A.txt     8.87		8.65  0.55  0.37  0.41  2.92  29.2  9.06  1.877
+tdc1_rung3_quad_pair6B.txt     18.13		18.54  0.97  0.67  0.70  2.92  29.2  19.24  1.750
+tdc1_rung3_quad_pair7A.txt     22.41		21.62  0.98  0.55  0.81  3.00  7.5  22.43  1.821
+tdc1_rung3_quad_pair7B.txt     67.94		68.36  0.57  0.53  0.21  3.00  30.0  68.57  0.766
+tdc1_rung3_quad_pair8A.txt     23.4		24.23  0.79  0.72  0.32  3.05  7.6  23.91  1.844
+tdc1_rung3_quad_pair8B.txt     13.41		13.01  0.57  0.50  0.28  3.05  30.5  13.28  1.492
+tdc1_rung3_quad_pair9A.txt     22.75		21.17  2.83  2.81  0.32  3.10  7.8  21.49  1.710
+tdc1_rung3_quad_pair9B.txt     11.73		12.28  1.08  0.75  0.77  3.10  15.5  13.05  1.824
+tdc1_rung3_quad_pair10A.txt     53.94		54.34  1.18  1.10  0.44  2.93  14.7  53.90  1.837
+tdc1_rung3_quad_pair10B.txt     23.72		24.36  0.80  0.77  0.20  2.93  29.3  24.16  1.623
+tdc1_rung3_quad_pair12A.txt     29.66		29.53  0.54  0.54  0.08  3.06  30.6  29.44  1.607
+tdc1_rung3_quad_pair12B.txt     14.98		15.31  0.51  0.50  0.06  3.06  30.6  15.26  1.179
+tdc1_rung3_quad_pair13A.txt     9.13		9.44  0.40  0.37  0.15  2.95  29.5  9.28  1.871
+tdc1_rung3_quad_pair13B.txt     5.45		5.64  0.41  0.41  0.01  2.95  29.5  5.64  1.284
+tdc1_rung3_quad_pair14A.txt     9.5		-99	-99
+tdc1_rung3_quad_pair14B.txt     21.19		-11	-11
+tdc1_rung3_quad_pair16A.txt     43.83		43.65  1.14  0.80  0.81  2.84  28.4  44.46  1.453
+tdc1_rung3_quad_pair16B.txt     57.87		58.05  1.81  1.33  1.22  2.84  28.4  59.27  1.590
+tdc1_rung3_quad_pair17A.txt     25.23		25.33  0.40  0.39  0.10  3.04  30.4  25.43  1.869
+tdc1_rung3_quad_pair17B.txt     48.66		48.85  0.67  0.67  0.05  3.04  30.4  48.80  1.529
+tdc1_rung3_quad_pair18A.txt     86.13		87.62  1.82  1.30  1.27  2.98  29.8  86.34  1.161
+tdc1_rung3_quad_pair18B.txt     10.52		10.44  0.60  0.55  0.22  2.98  7.4  10.65  1.610
+tdc1_rung3_quad_pair19A.txt     15.76		17.43  2.52  2.52  0.04  3.04  15.2  17.39  2.391
+tdc1_rung3_quad_pair19B.txt     19.9		20.38  1.44  1.43  0.14  2.99  29.9  20.52  1.940
+tdc1_rung3_quad_pair20A.txt     29.8		29.36  1.23  1.21  0.25  3.07  30.7  29.61  1.621
+tdc1_rung3_quad_pair20B.txt     5.73		5.79  0.62  0.62  0.03  3.07  30.7  5.83  1.070
+tdc1_rung3_quad_pair21A.txt     15.35		15.11  0.74  0.58  0.47  2.97  29.7  15.57  1.650
+tdc1_rung3_quad_pair21B.txt     5.6		5.75  0.44  0.43  0.10  2.97  29.7  5.65  1.803
+tdc1_rung3_quad_pair22A.txt     61.65		-11	-11
+tdc1_rung3_quad_pair22B.txt     12.35		11.52  0.52  0.40  0.34  2.96  14.8  11.86  1.662
+tdc1_rung3_quad_pair23A.txt     26.06		-11	-11
+tdc1_rung3_quad_pair23B.txt     10.11		-11	-11
+tdc1_rung3_quad_pair24A.txt     43.89		-11	-11
+tdc1_rung3_quad_pair24B.txt     12.17		-99	-99
+tdc1_rung3_quad_pair25A.txt     7.58		7.30  2.06  1.95  0.66  3.01  7.5  7.96  2.159
+tdc1_rung3_quad_pair25B.txt     28.02		26.52  3.75  2.74  2.56  3.01  7.5  29.09  1.636
+tdc1_rung3_quad_pair26A.txt     11.75		11.40  1.04  0.70  0.76  2.99  29.9  12.17  1.518
+tdc1_rung3_quad_pair26B.txt     63.08		-11	-11
+tdc1_rung3_quad_pair27A.txt     10.77		10.49  0.51  0.48  0.19  3.01  30.1  10.68  1.526
+tdc1_rung3_quad_pair27B.txt     10.52		10.25  0.59  0.37  0.46  3.01  30.1  10.71  1.300
+tdc1_rung3_quad_pair28A.txt     41.23		41.20  0.95  0.94  0.09  3.03  7.6  41.30  2.807
+tdc1_rung3_quad_pair28B.txt     95.6		98.43  1.39  1.24  0.61  3.03  30.3  97.82  1.197
+tdc1_rung3_quad_pair29A.txt     32.48		32.42  0.94  0.61  0.71  2.99  29.9  33.14  1.626
+tdc1_rung3_quad_pair29B.txt     77.27		75.94  0.99  0.78  0.62  2.99  29.9  76.55  1.566
+tdc1_rung3_quad_pair30A.txt     20.71		19.33  2.78  2.61  0.96  3.08  15.4  18.37  1.618
+tdc1_rung3_quad_pair30B.txt     20.18		-11	-11
+tdc1_rung3_quad_pair31A.txt     61.39		-11	-11
+tdc1_rung3_quad_pair31B.txt     14.4		14.73  0.69  0.65  0.22  3.12  31.2  14.51  1.982
+tdc1_rung3_quad_pair32A.txt     85.22		84.87  1.35  1.31  0.34  3.04  30.4  85.21  1.280
+tdc1_rung3_quad_pair32B.txt     15.17		15.46  0.72  0.66  0.29  3.04  30.4  15.17  1.939
+tdc1_rung3_quad_pair33A.txt     10.04		9.77  0.96  0.83  0.50  3.01  30.1  10.27  1.711
+tdc1_rung3_quad_pair33B.txt     10.24		-11	-11
+tdc1_rung3_quad_pair34A.txt     17.17		-11	-11
+tdc1_rung3_quad_pair34B.txt     27.84		-11	-11
+tdc1_rung3_quad_pair35A.txt     6.63		4.90  2.31  2.28  0.38  2.97  29.7  4.53  1.775
+tdc1_rung3_quad_pair35B.txt     9.48		8.77  2.55  1.91  1.70  3.00  30.0  10.46  1.809
+tdc1_rung3_quad_pair36A.txt     7.32		6.85  0.67  0.56  0.37  3.10  31.0  7.22  1.761
+tdc1_rung3_quad_pair36B.txt     86.64		-11	-11
+tdc1_rung3_quad_pair37A.txt     34.35		-11	-11
+tdc1_rung3_quad_pair37B.txt     15.69		15.79  1.61  1.56  0.39  2.85  28.5  16.18  1.348
+tdc1_rung3_quad_pair38A.txt     24.0		-11	-11
+tdc1_rung3_quad_pair38B.txt     12.17		-11	-11
+tdc1_rung3_quad_pair39A.txt     26.41		26.47  1.15  1.06  0.45  2.93  14.6  26.02  1.766
+tdc1_rung3_quad_pair39B.txt     5.32		5.68  0.75  0.75  0.05  2.91  7.3  5.73  2.004
+tdc1_rung3_quad_pair40A.txt     20.96		22.92  1.09  1.09  0.03  3.12  15.6  22.94  1.915
+tdc1_rung3_quad_pair40B.txt     23.29		23.09  0.63  0.56  0.28  3.12  7.8  23.37  1.888
+tdc1_rung3_quad_pair41A.txt     7.07		6.84  0.79  0.71  0.35  3.05  30.5  7.19  1.081
+tdc1_rung3_quad_pair41B.txt     64.53		-99	-99
+tdc1_rung3_quad_pair42A.txt     8.44		-11	-11
+tdc1_rung3_quad_pair42B.txt     12.6		-11	-11
+tdc1_rung3_quad_pair43A.txt     33.95		34.07  0.46  0.46  0.02  2.83  28.3  34.06  1.953
+tdc1_rung3_quad_pair43B.txt     31.48		31.04  1.90  1.73  0.79  2.83  7.1  31.83  1.617
+tdc1_rung3_quad_pair44A.txt     16.63		16.46  0.94  0.88  0.34  2.94  29.4  16.80  1.368
+tdc1_rung3_quad_pair44B.txt     14.67		13.94  1.03  0.97  0.34  2.94  29.4  14.28  1.664
+tdc1_rung3_quad_pair45A.txt     10.41		-11	-11
+tdc1_rung3_quad_pair45B.txt     20.18		20.13  0.90  0.79  0.42  3.01  30.1  20.55  1.704
+tdc1_rung3_quad_pair46A.txt     5.17		-11	-11
+tdc1_rung3_quad_pair46B.txt     12.35		-11	-11
+tdc1_rung3_quad_pair47A.txt     5.41		4.15  2.48  2.48  0.20  2.97  14.8  3.94  1.892
+tdc1_rung3_quad_pair47B.txt     6.11		6.38  0.53  0.52  0.08  2.97  29.7  6.30  1.658
+tdc1_rung3_quad_pair48A.txt     7.89		7.52  4.20  4.19  0.34  2.98  14.9  7.86  1.864
+tdc1_rung3_quad_pair48B.txt     30.09		-11	-11
+tdc1_rung3_quad_pair49A.txt     28.15		27.92  2.71  2.62  0.71  2.90  14.5  28.64  1.843
+tdc1_rung3_quad_pair49B.txt     49.91		-11	-11
+tdc1_rung3_quad_pair50A.txt     5.2		3.09  1.81  1.32  1.24  2.98  7.5  4.33  1.793
+tdc1_rung3_quad_pair50B.txt     11.47		11.33  0.42  0.41  0.04  2.98  29.8  11.37  1.009
+tdc1_rung3_quad_pair51A.txt     10.93		-11	-11
+tdc1_rung3_quad_pair51B.txt     54.84		55.64  1.64  1.63  0.20  3.06  15.3  55.84  1.677
+tdc1_rung3_quad_pair52A.txt     44.97		-11	-11
+tdc1_rung3_quad_pair52B.txt     40.87		-11	-11
+tdc1_rung3_quad_pair53A.txt     8.68		-99	-99
+tdc1_rung3_quad_pair53B.txt     6.46		6.71  3.22  3.16  0.65  3.11  31.1  6.06  2.122
+tdc1_rung3_quad_pair54A.txt     13.94		14.29  0.45  0.43  0.14  2.99  29.9  14.43  1.192
+tdc1_rung3_quad_pair54B.txt     17.34		16.70  0.78  0.41  0.67  2.99  29.9  17.37  1.542
+tdc1_rung3_quad_pair55A.txt     9.68		9.56  0.71  0.65  0.28  3.03  30.3  9.84  1.890
+tdc1_rung3_quad_pair55B.txt     11.98		12.26  0.56  0.56  0.02  3.03  30.3  12.28  1.399
+tdc1_rung3_quad_pair56A.txt     9.13		9.30  0.47  0.40  0.26  3.02  30.2  9.56  1.711
+tdc1_rung3_quad_pair56B.txt     25.28		23.96  1.43  1.29  0.63  3.02  7.5  24.59  1.705
+tdc1_rung3_quad_pair57A.txt     13.55		-11	-11
+tdc1_rung3_quad_pair57B.txt     17.5		-99	-99
+tdc1_rung3_quad_pair58A.txt     7.91		6.98  1.43  1.41  0.22  2.91  14.6  7.20  1.864
+tdc1_rung3_quad_pair58B.txt     8.12		9.11  0.76  0.72  0.25  2.91  14.6  8.86  1.601
+tdc1_rung3_quad_pair59A.txt     15.01		14.92  0.90  0.85  0.27  3.01  7.5  14.65  2.092
+tdc1_rung3_quad_pair59B.txt     35.56		35.23  0.50  0.47  0.17  3.01  30.1  35.40  1.845
+tdc1_rung3_quad_pair60A.txt     10.08		-11	-11
+tdc1_rung3_quad_pair60B.txt     10.64		-11	-11
+tdc1_rung3_quad_pair61A.txt     5.7		-11	-11
+tdc1_rung3_quad_pair61B.txt     30.43		-11	-11
+tdc1_rung3_quad_pair62A.txt     7.38		8.10  1.68  1.30  1.07  3.03  7.6  7.03  1.899
+tdc1_rung3_quad_pair62B.txt     24.84		-11	-11
+tdc1_rung3_quad_pair63A.txt     8.09		7.53  2.24  1.85  1.26  2.95  29.5  8.79  1.848
+tdc1_rung3_quad_pair63B.txt     14.04		15.02  1.35  1.29  0.40  2.95  29.5  14.62  1.765
+tdc1_rung3_quad_pair64A.txt     14.04		-11	-11
+tdc1_rung3_quad_pair64B.txt     19.17		21.83  1.30  1.28  0.21  2.99  29.9  21.62  2.415
+tdc1_rung3_quad_pair65A.txt     32.68		-11	-11
+tdc1_rung3_quad_pair65B.txt     34.25		-11	-11
+tdc1_rung3_quad_pair66A.txt     7.65		-11	-11
+tdc1_rung3_quad_pair66B.txt     28.21		28.59  2.31  2.31  0.08  2.92  14.6  28.66  1.604
+tdc1_rung3_quad_pair68A.txt     8.0		-11	-11
+tdc1_rung3_quad_pair68B.txt     8.73		-11	-11
+tdc1_rung3_quad_pair69A.txt     20.2		20.39  0.45  0.41  0.19  3.03  30.3  20.19  1.826
+tdc1_rung3_quad_pair69B.txt     84.79		-11	-11
+tdc1_rung3_quad_pair70A.txt     99.13		-11	-11
+tdc1_rung3_quad_pair70B.txt     8.25		-11	-11
+tdc1_rung3_quad_pair71A.txt     11.7		-11	-11
+tdc1_rung3_quad_pair71B.txt     38.73		-11	-11
+tdc1_rung3_quad_pair72A.txt     21.7		-11	-11
+tdc1_rung3_quad_pair72B.txt     16.46		-11	-11
+tdc1_rung3_quad_pair73A.txt     36.94		-11	-11
+tdc1_rung3_quad_pair73B.txt     35.07		-11	-11
+tdc1_rung3_quad_pair74A.txt     43.1		-11	-11
+tdc1_rung3_quad_pair74B.txt     29.25		-11	-11
+tdc1_rung3_quad_pair75A.txt     75.52		-11	-11
+tdc1_rung3_quad_pair75B.txt     9.16		-11	-11
+tdc1_rung3_quad_pair76A.txt     7.16		-11	-11
+tdc1_rung3_quad_pair76B.txt     66.15		-11	-11
+tdc1_rung3_quad_pair77A.txt     17.09		15.05  2.27  1.89  1.26  3.04  7.6  16.30  1.691
+tdc1_rung3_quad_pair77B.txt     48.7		-11	-11
+tdc1_rung3_quad_pair78A.txt     9.78		9.49  0.90  0.86  0.23  2.98  7.5  9.72  2.389
+tdc1_rung3_quad_pair78B.txt     5.44		-99	-99
+tdc1_rung3_quad_pair79A.txt     83.91		83.57  1.67  1.57  0.56  2.99  29.9  84.12  1.730
+tdc1_rung3_quad_pair79B.txt     5.44		5.28  0.51  0.47  0.19  2.98  29.8  5.48  1.906
+tdc1_rung3_quad_pair80A.txt     17.96		17.05  1.12  0.86  0.72  2.94  29.4  17.78  1.787
+tdc1_rung3_quad_pair80B.txt     15.65		15.91  3.24  3.24  0.03  2.94  7.3  15.94  1.554
+tdc1_rung3_quad_pair81A.txt     74.8		-11	-11
+tdc1_rung3_quad_pair81B.txt     11.62		-99	-99
+tdc1_rung3_quad_pair82A.txt     8.27		7.62  1.28  1.28  0.02  3.01  7.5  7.64  1.737
+tdc1_rung3_quad_pair82B.txt     49.55		-11	-11
+tdc1_rung3_quad_pair83A.txt     70.77		-11	-11
+tdc1_rung3_quad_pair83B.txt     21.77		-11	-11
+tdc1_rung3_quad_pair84A.txt     59.88		58.95  1.52  1.26  0.85  2.84  28.4  59.80  1.346
+tdc1_rung3_quad_pair84B.txt     27.27		27.42  0.66  0.62  0.22  2.84  28.4  27.20  1.901
+tdc1_rung3_quad_pair85A.txt     14.76		-11	-11
+tdc1_rung3_quad_pair85B.txt     114.36		-11	-11
+tdc1_rung3_quad_pair86A.txt     10.35		11.10  0.79  0.76  0.23  2.94  29.4  11.33  0.948
+tdc1_rung3_quad_pair86B.txt     9.44		9.76  1.81  1.75  0.49  2.94  7.4  10.25  2.599
+tdc1_rung3_quad_pair87A.txt     55.33		-11	-11
+tdc1_rung3_quad_pair87B.txt     6.94		-11	-11
+tdc1_rung3_quad_pair88A.txt     30.52		29.56  0.78  0.76  0.17  2.92  14.6  29.38  2.321
+tdc1_rung3_quad_pair88B.txt     11.04		-11	-11
+tdc1_rung3_quad_pair89A.txt     12.74		13.83  1.51  1.25  0.84  3.08  30.8  13.00  1.739
+tdc1_rung3_quad_pair89B.txt     40.7		-11	-11
+tdc1_rung3_quad_pair90A.txt     12.29		-11	-11
+tdc1_rung3_quad_pair90B.txt     51.63		-11	-11
+tdc1_rung3_quad_pair91A.txt     16.47		-11	-11
+tdc1_rung3_quad_pair91B.txt     37.19		-11	-11
+tdc1_rung3_quad_pair92A.txt     32.27		-11	-11
+tdc1_rung3_quad_pair92B.txt     12.24		-11	-11
+tdc1_rung3_quad_pair93A.txt     7.4		8.73  0.75  0.72  0.22  3.02  30.2  8.51  1.951
+tdc1_rung3_quad_pair93B.txt     5.9		6.14  1.15  1.14  0.16  3.02  7.6  6.30  1.824
+tdc1_rung3_quad_pair95A.txt     17.85		-11	-11
+tdc1_rung3_quad_pair95B.txt     24.15		-11	-11
+tdc1_rung3_quad_pair96A.txt     12.78		-11	-11
+tdc1_rung3_quad_pair96B.txt     25.2		-11	-11
+tdc1_rung3_quad_pair97A.txt     27.45		-11	-11
+tdc1_rung3_quad_pair97B.txt     5.85		-99	-99
+tdc1_rung3_quad_pair98A.txt     15.42		15.48  0.85  0.82  0.20  3.04  30.4  15.68  1.696
+tdc1_rung3_quad_pair98B.txt     6.91		7.75  0.87  0.84  0.21  3.04  30.4  7.54  2.207
+tdc1_rung3_quad_pair99A.txt     5.1		5.36  3.87  3.84  0.50  3.08  30.8  5.86  1.510
+tdc1_rung3_quad_pair99B.txt     11.62		-11	-11
+tdc1_rung3_quad_pair100A.txt     6.34		7.71  1.53  1.27  0.85  2.92  29.2  6.86  1.939
+tdc1_rung3_quad_pair100B.txt     17.52		-11	-11
+tdc1_rung3_quad_pair101A.txt     19.8		-11	-11
+tdc1_rung3_quad_pair101B.txt     7.12		-11	-11
+tdc1_rung3_quad_pair102A.txt     8.74		-11	-11
+tdc1_rung3_quad_pair102B.txt     7.48		-11	-11
+tdc1_rung3_quad_pair103A.txt     5.61		5.15  1.27  1.24  0.25  2.95  29.5  4.91  1.581
+tdc1_rung3_quad_pair103B.txt     30.36		-11	-11
+tdc1_rung3_quad_pair104A.txt     20.13		-11	-11
+tdc1_rung3_quad_pair104B.txt     7.33		7.24  3.45  3.42  0.43  2.99  7.5  7.67  1.844
+tdc1_rung3_quad_pair105A.txt     17.69		-11	-11
+tdc1_rung3_quad_pair105B.txt     10.86		-11	-11
+tdc1_rung3_quad_pair106A.txt     75.38		-11	-11
+tdc1_rung3_quad_pair106B.txt     11.78		12.14  2.16  2.16  0.11  3.22  32.2  12.26  1.874
+tdc1_rung3_quad_pair107A.txt     45.69		-11	-11
+tdc1_rung3_quad_pair107B.txt     70.14		-11	-11
+tdc1_rung3_quad_pair108A.txt     44.02		-11	-11
+tdc1_rung3_quad_pair108B.txt     16.1		-11	-11
+tdc1_rung3_quad_pair109A.txt     6.25		-11	-11
+tdc1_rung3_quad_pair109B.txt     6.29		-11	-11
+tdc1_rung3_quad_pair110A.txt     11.56		-11	-11
+tdc1_rung3_quad_pair110B.txt     36.17		-11	-11
+tdc1_rung3_quad_pair111A.txt     35.41		-11	-11
+tdc1_rung3_quad_pair111B.txt     5.58		-11	-11
+tdc1_rung3_quad_pair112A.txt     15.23		-11	-11
+tdc1_rung3_quad_pair112B.txt     49.78		-11	-11
+tdc1_rung3_quad_pair113A.txt     61.25		-11	-11
+tdc1_rung3_quad_pair113B.txt     14.54		-11	-11
+tdc1_rung3_quad_pair114A.txt     24.79		-11	-11
+tdc1_rung3_quad_pair114B.txt     59.98		-11	-11
+tdc1_rung3_quad_pair115A.txt     18.15		-11	-11
+tdc1_rung3_quad_pair115B.txt     79.34		-11	-11
+tdc1_rung3_quad_pair116A.txt     22.94		-11	-11
+tdc1_rung3_quad_pair116B.txt     43.3		-11	-11
+tdc1_rung3_quad_pair117A.txt     56.0		-11	-11
+tdc1_rung3_quad_pair117B.txt     6.71		-11	-11
+tdc1_rung3_quad_pair118A.txt     21.68		-11	-11
+tdc1_rung3_quad_pair118B.txt     12.26		-11	-11
+tdc1_rung3_quad_pair119A.txt     37.2		-11	-11
+tdc1_rung3_quad_pair119B.txt     58.64		-11	-11
+tdc1_rung3_quad_pair120A.txt     101.22		-11	-11
+tdc1_rung3_quad_pair120B.txt     13.27		-11	-11
+tdc1_rung3_quad_pair121A.txt     6.35		-11	-11
+tdc1_rung3_quad_pair121B.txt     39.3		40.88  3.87  3.85  0.36  3.06  244.8  41.25  2.216
+tdc1_rung3_quad_pair122A.txt     65.56		-11	-11
+tdc1_rung3_quad_pair122B.txt     30.49		-11	-11
+tdc1_rung3_quad_pair123A.txt     24.24		-11	-11
+tdc1_rung3_quad_pair123B.txt     28.34		-11	-11
+tdc1_rung3_quad_pair124A.txt     21.07		-11	-11
+tdc1_rung3_quad_pair124B.txt     11.84		-11	-11
+tdc1_rung3_quad_pair125A.txt     67.02		-11	-11
+tdc1_rung3_quad_pair125B.txt     7.23		-11	-11
+tdc1_rung3_quad_pair127A.txt     5.14		-11	-11
+tdc1_rung3_quad_pair127B.txt     60.52		-11	-11
+tdc1_rung3_quad_pair128A.txt     12.84		-11	-11
+tdc1_rung3_quad_pair128B.txt     92.11		-11	-11
+tdc1_rung3_quad_pair129A.txt     44.92		-11	-11
+tdc1_rung3_quad_pair129B.txt     9.21		-11	-11
+tdc1_rung3_quad_pair130A.txt     11.16		-11	-11
+tdc1_rung3_quad_pair130B.txt     18.73		-11	-11
+tdc1_rung3_quad_pair131A.txt     6.1		7.14  5.40  5.38  0.44  3.06  30.6  7.58  2.382
+tdc1_rung3_quad_pair131B.txt     9.67		-99	-99
+tdc1_rung3_quad_pair132A.txt     6.32		8.14  3.57  3.32  1.31  3.02  7.6  6.83  2.244
+tdc1_rung3_quad_pair132B.txt     6.9		6.12  2.83  2.79  0.44  3.04  30.4  6.55  2.726
+tdc1_rung3_quad_pair133A.txt     8.86		-11	-11
+tdc1_rung3_quad_pair133B.txt     9.35		-99	-99
+tdc1_rung3_quad_pair134A.txt     24.46		-11	-11
+tdc1_rung3_quad_pair134B.txt     7.85		-11	-11
+tdc1_rung3_quad_pair135A.txt     79.77		-11	-11
+tdc1_rung3_quad_pair135B.txt     6.38		9.13  2.91  2.47  1.53  2.95  29.5  7.60  1.558
+tdc1_rung3_quad_pair136A.txt     42.26		41.04  2.21  2.01  0.93  2.92  29.2  41.98  1.617
+tdc1_rung3_quad_pair136B.txt     7.79		10.23  2.56  1.87  1.75  2.91  14.5  8.48  1.786
+tdc1_rung3_quad_pair137A.txt     18.02		18.85  1.46  1.32  0.63  2.98  7.4  18.22  2.254
+tdc1_rung3_quad_pair137B.txt     56.34		-11	-11
+tdc1_rung3_quad_pair139A.txt     16.65		16.32  2.23  2.18  0.44  3.17  7.9  16.76  1.989
+tdc1_rung3_quad_pair139B.txt     5.38		5.44  0.64  0.56  0.31  3.17  31.7  5.75  1.371
+tdc1_rung3_quad_pair140A.txt     22.66		-11	-11
+tdc1_rung3_quad_pair140B.txt     9.58		11.13  1.86  1.86  0.00  2.95  29.5  11.14  1.523
+tdc1_rung3_quad_pair141A.txt     11.87		-11	-11
+tdc1_rung3_quad_pair141B.txt     95.15		-11	-11
+tdc1_rung3_quad_pair142A.txt     16.23		16.64  0.46  0.43  0.18  2.98  29.8  16.82  1.611
+tdc1_rung3_quad_pair142B.txt     39.6		-99	-99
+tdc1_rung3_quad_pair143A.txt     57.61		57.62  1.13  1.03  0.46  3.02  15.1  58.07  1.390
+tdc1_rung3_quad_pair143B.txt     32.45		-11	-11
+tdc1_rung3_quad_pair144A.txt     25.43		25.57  0.70  0.62  0.33  3.07  30.7  25.90  1.730
+tdc1_rung3_quad_pair144B.txt     19.61		19.90  0.74  0.74  0.07  3.07  30.7  19.83  1.310
+tdc1_rung3_quad_pair145A.txt     28.83		28.74  0.59  0.52  0.28  2.92  29.2  28.46  1.282
+tdc1_rung3_quad_pair145B.txt     73.51		73.94  1.31  1.30  0.12  2.90  29.0  73.82  1.211
+tdc1_rung3_quad_pair146A.txt     9.0		9.00  1.07  0.95  0.50  2.87  7.2  9.49  2.205
+tdc1_rung3_quad_pair146B.txt     47.84		47.45  0.74  0.71  0.22  2.87  14.4  47.66  1.977
+tdc1_rung3_quad_pair147A.txt     10.99		-11	-11
+tdc1_rung3_quad_pair147B.txt     33.31		-11	-11
+tdc1_rung3_quad_pair148A.txt     30.65		31.29  0.78  0.70  0.34  3.02  30.2  30.95  1.331
+tdc1_rung3_quad_pair148B.txt     54.48		55.02  2.70  2.51  0.97  3.02  15.1  56.00  2.752
+tdc1_rung3_quad_pair149A.txt     8.68		9.59  2.22  2.18  0.45  3.18  8.0  9.15  2.280
+tdc1_rung3_quad_pair149B.txt     18.66		18.87  1.42  1.39  0.32  3.18  8.0  18.55  1.870
+tdc1_rung3_quad_pair150A.txt     26.26		25.73  1.25  1.17  0.46  2.87  28.7  26.19  2.086
+tdc1_rung3_quad_pair150B.txt     16.54		17.00  0.63  0.63  0.01  2.87  7.2  17.01  2.437
+tdc1_rung3_quad_pair151A.txt     6.56		6.43  0.48  0.45  0.17  3.04  30.4  6.60  1.299
+tdc1_rung3_quad_pair151B.txt     20.95		20.78  0.90  0.89  0.15  3.04  30.4  20.93  1.645
+tdc1_rung3_quad_pair152A.txt     5.89		-11	-11
+tdc1_rung3_quad_pair152B.txt     5.41		-99	-99
+tdc1_rung3_quad_pair153A.txt     12.78		-99	-99
+tdc1_rung3_quad_pair153B.txt     10.83		-11	-11
+tdc1_rung3_quad_pair154A.txt     32.81		-11	-11
+tdc1_rung3_quad_pair154B.txt     37.51		37.53  1.29  1.16  0.58  3.07  30.7  36.95  1.880
+tdc1_rung3_quad_pair155A.txt     6.47		-99	-99
+tdc1_rung3_quad_pair155B.txt     14.24		-11	-11
+tdc1_rung3_quad_pair156A.txt     30.91		-11	-11
+tdc1_rung3_quad_pair156B.txt     20.15		20.43  1.01  0.96  0.31  3.08  30.8  20.11  1.756
+tdc1_rung3_quad_pair157A.txt     7.54		7.43  0.42  0.42  0.02  2.99  29.9  7.45  1.437
+tdc1_rung3_quad_pair157B.txt     21.06		20.73  0.79  0.59  0.53  2.99  29.9  21.26  1.565
+tdc1_rung3_quad_pair158A.txt     5.63		4.79  3.41  3.36  0.61  2.98  29.8  5.40  1.737
+tdc1_rung3_quad_pair158B.txt     10.0		-11	-11

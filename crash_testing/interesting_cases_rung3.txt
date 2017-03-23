@@ -1,0 +1,6 @@
+#filename:  true delay:  corrected delay ± uncertainty:  random:  systematic:  delta:  smoothing:  measured delay:  max ratio:
+tdc1_rung3_double_pair658.txt     -95.15	-97.77  1.37  1.21  0.64  2.90  29.0  -97.41  1.833
+tdc1_rung3_double_pair435.txt     31.18		32.52  0.82  0.79  0.20  3.06  30.6  32.57  1.721
+tdc1_rung3_quad_pair28B.txt     95.6		98.26  1.58  1.52  0.44  3.03  30.3  97.82  1.197
+tdc1_rung3_double_pair143.txt     -94.59	-101.32  3.37  2.83  1.84  2.98  238.3  -100.83  1.759
+tdc1_rung3_quad_pair64B.txt     19.17		21.77  1.69  1.59  0.57  2.99  29.9  21.62  2.415

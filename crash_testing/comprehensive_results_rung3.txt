@@ -1,0 +1,62 @@
+tdc1_rung3_double_pair658.txt
+-----------------------------
+measured delay = -97.41     delta = 2.90     smoothing = 29.0     trial delay range = [-115 -70]
+corrected delay = -97.77     uncertainty = 1.37 (random: 1.21, systematic: 0.64)
+
+          increments:	-2.90	-1.45	0.00	1.45	2.90	
+       random errors:	1.11	1.21	1.14	1.04	0.98	
+   systematic errors:	0.23	0.10	0.36	0.64	0.57	
+
+trials = 2500     run time ~ 3.3 min     10-Jan-2017 12:49:09     seasons = 5     max ratio = 1.833
+investigator,machine: rathna,aad3     cores = 22     gaps,residuals: 10,10     max NSV A,B = 5.973,5.162
+
+tdc1_rung3_double_pair435.txt
+-----------------------------
+measured delay = 32.57     delta = 3.06     smoothing = 30.6     trial delay range = [0 70]
+corrected delay = 32.52     uncertainty = 0.82 (random: 0.79, systematic: 0.20)
+
+          increments:	-3.06	-1.53	0.00	1.53	3.06	
+       random errors:	0.78	0.79	0.58	0.57	0.61	
+   systematic errors:	-0.05	0.05	0.04	-0.18	-0.20	
+
+trials = 2500     run time ~ 2.9 min     10-Jan-2017 12:58:34     seasons = 5     max ratio = 1.721
+investigator,machine: rathna,aad3     cores = 22     gaps,residuals: 10,10     max NSV A,B = 5.785,4.217
+
+tdc1_rung3_quad_pair28B.txt
+---------------------------
+measured delay = 97.82     delta = 3.03     smoothing = 30.3     trial delay range = [30 115]
+corrected delay = 98.26     uncertainty = 1.58 (random: 1.52, systematic: 0.44)
+
+          increments:	-4.54	-3.03	-1.51	0.00	1.51	3.03	4.54	
+       random errors:	1.11	1.15	0.66	1.38	1.52	1.41	0.84	
+   systematic errors:	-0.02	-0.09	-0.25	-0.44	-0.32	-0.23	-0.36	
+
+trials = 3500     run time ~ 5.1 min     11-Jan-2017 11:45:34     seasons = 5     max ratio = 1.197
+investigator,machine: rathna,aad3     cores = 22     gaps,residuals: 10,10     max NSV A,B = 7.969,4.084
+
+tdc1_rung3_double_pair143.txt
+-----------------------------
+measured delay = -100.83     delta = 2.98     smoothing = 238.3     trial delay range = [-120 -60]
+corrected delay = -101.32     uncertainty = 3.37 (random: 2.83, systematic: 1.84)
+
+                mask:	45	
+
+          increments:	-7.45	-5.96	-4.47	-2.98	-1.49	0.00	1.49	2.98	4.47	5.96	7.45	
+       random errors:	2.83	2.01	1.81	1.82	2.10	2.36	2.58	2.45	2.34	2.17	1.80	
+   systematic errors:	1.19	1.37	1.08	0.63	0.38	0.49	0.36	0.80	1.29	1.59	1.84	
+
+trials = 5500     run time ~ 7.6 min     27-Jan-2017 19:40:30     seasons = 5     max ratio = 1.759
+investigator,machine: rathna,aad3     cores = 22     gaps,residuals: 10,10     max NSV A,B = 2.631,9.235
+
+tdc1_rung3_quad_pair64B.txt
+---------------------------
+measured delay = 21.62     delta = 2.99     smoothing = 29.9     trial delay range = [-20 60]
+corrected delay = 21.77     uncertainty = 1.69 (random: 1.59, systematic: 0.57)
+
+          increments:	-4.49	-2.99	-1.50	0.00	1.50	2.99	4.49	
+       random errors:	1.01	1.01	1.13	1.35	1.59	1.31	1.08	
+   systematic errors:	0.18	0.02	-0.13	-0.15	0.20	0.45	0.57	
+
+trials = 3500     run time ~ 3.4 min     16-Feb-2017 13:24:22     seasons = 5     max ratio = 2.415
+investigator,machine: rathna,vikram     cores = 24     gaps,residuals: 10,10     max NSV A,B = 2.405,2.249
+

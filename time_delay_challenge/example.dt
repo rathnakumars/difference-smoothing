@@ -1,0 +1,102 @@
+# Example time delay estimate file "example.dt"
+#  - as could be submitted to the Time Delay Challenge!
+# 
+# Your entry will be referred to by the name of this file - in this case, the
+# entry name would be "example". We recommend you follow the format
+# "teamname_tdcX_rungY_algorithmZ.dt" and submit one file per rung of the
+# challenge. "X" would be 0 or 1 in the above example. You can submit multiple
+# entries, so should include version numbers in your algorithm names as you
+# like. You can also submit just one file with all rungs' estimates in it, in 
+# which case your filename should be "teamname_tdcX_algorithmZ.dt"
+# 
+# Please include in this header the names of all your team members, and their
+# institutional affiliations. That way we can make sure everyone is in the loop
+# when we send feedback and make announcements.
+# 
+# You should submit your actual results in a table like the one below,
+# following these guidelines:
+#   * dt and its 68% uncertainty should be given in days.
+#   * Uncertainties will be interpreted as Gaussian: do your best.
+#   * The convention is that if the the first lightcurve leads the second one,
+#     the time delay is positive.
+#   * If you tried to estimate the time delay but could not (ie because
+#      you consider your errors to be too large, or not well enough 
+#      characterised), please give both the dt and the dterr as -99 so we can
+#      register it as a rejection. It's very important that you report an 
+#      estimate or a -99 flag for every lightcurve you analyze, not just the
+#      ones where you were successful.
+#   * Some of the metrics we use depend on the number of delays estimated - 
+#       please do as many as you can! You should only submit dt and dterr
+#       values for the files you analyze, removing the ones you did not 
+#       attempt. (This is why the -99 values for failed attempts are
+#       important.)
+#   * Lightcurve files marked 'XXa' and 'XXb' together contain all four
+#       lightcurves of a single four-image ("quad") lens system, a fact 
+#       which we encourage you to make use of! You still only need submit two 
+#       time delays, one for each file as usual - but the knowledge that both 
+#       files came from the same system should be useful to you.
+#
+# Please email your submission to the TDC Evil Team at:
+#
+#   tdc-evil-team@googlegroups.com
+#
+# You can email any queries you have to that address as well!
+#
+# datafile              dt      dterr
+tdc0_rung0_pair1.txt	2.78	0.14
+tdc0_rung0_pair2.txt	33.82	1.91
+tdc0_rung0_pair3.txt	181.86	15.96
+tdc0_rung0_pair4.txt	111.94	8.16
+tdc0_rung0_pair5.txt	130.11	9.97
+tdc0_rung0_pair6.txt	55.33	3.37
+tdc0_rung0_pair7.txt	14.12	0.74
+tdc0_rung0_pair8.txt	167.07	14.02
+tdc0_rung1_pair1.txt	167.85	14.09
+tdc0_rung1_pair2.txt	230.85	22.33
+tdc0_rung1_pair3.txt	96.74	6.69
+tdc0_rung1_pair4.txt	130.56	9.92
+tdc0_rung1_pair5.txt	208.03	19.04
+tdc0_rung1_pair6.txt	11.35	0.59
+tdc0_rung1_pair7.txt	16.09	0.85
+tdc0_rung1_pair8.txt	135.21	10.34
+tdc0_rung2_pair1.txt	171.24	14.31
+tdc0_rung2_pair2.txt	4.72	0.24
+tdc0_rung2_pair3.txt	99.79	6.90
+tdc0_rung2_pair4.txt	19.76	1.05
+tdc0_rung2_pair5.txt	109.24	7.74
+tdc0_rung2_pair6.txt	178.59	15.06
+tdc0_rung2_pair7.txt	154.15	12.25
+tdc0_rung2_pair8.txt	242.83	23.44
+tdc0_rung3_pair1.txt	221.94	20.49
+tdc0_rung3_pair2.txt	139.78	10.67
+tdc0_rung3_pair3.txt	26.78	1.46
+tdc0_rung3_pair4.txt	174.11	14.40
+tdc0_rung3_pair5.txt	112.19	7.94
+tdc0_rung3_pair6.txt	187.90	15.98
+tdc0_rung3_pair7.txt	244.02	23.31
+tdc0_rung3_pair8.txt	205.53	18.11
+tdc0_rung4_pair1.txt	72.86	4.60
+tdc0_rung4_pair2.txt	15.50	0.81
+tdc0_rung4_pair3.txt	200.79	17.43
+tdc0_rung4_pair4.txt	91.40	6.07
+tdc0_rung4_pair5.txt	174.23	14.22
+tdc0_rung4_pair6.txt	208.52	18.31
+tdc0_rung4_pair7.txt	273.33	27.21
+tdc0_rung4_pair8.txt	102.88	7.02
+tdc0_rung5_pair1.txt	70.72	4.41
+tdc0_rung5_pair2.txt	273.96	27.16
+tdc0_rung5_pair3.txt	202.96	17.48
+tdc0_rung5_pair4.txt	212.21	18.60
+tdc0_rung5_pair5.txt	184.55	15.24
+tdc0_rung5_pair6.txt	23.13	1.24
+tdc0_rung5_pair7.txt	180.27	14.71
+tdc0_rung5_pair8.txt	252.27	23.77
+tdc0_rung6_pair1.txt	79.96	5.09
+tdc0_rung6_pair2.txt	126.72	9.10
+tdc0_rung6_pair3.txt	221.23	19.54
+tdc0_rung6_pair4.txt	139.41	10.30
+tdc0_rung6_pair5.txt	71.02	4.40
+tdc0_rung6_pair6.txt	81.95	5.22
+tdc0_rung6_pair7.txt	106.61	7.25
+tdc0_rung6_pair8.txt	51.07	2.98
+

@@ -1,9 +1,7 @@
 Overview of folders
 -------------------
 "codes": MATLAB codes implementing difference-smoothing algorithm
-
 "crash_testing": Results from running the codes on rung3 and rung4 simulated light curves from TDC1
-
 "time_delay_challenge": Simulated data and truth files from TDC0 and TDC1
 
 Codes to run

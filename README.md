@@ -22,10 +22,8 @@ Overview of "crash_testing" folder
 ----------------------------------
 "results" files: Summary displayed after running "simple_uncertainty.m" is saved here
 
-"truth_compare" files: One-line summary displayed after running "simple_uncertainty.m" is manually pasted here to compare 
-                       measured delay and true delay 
+"truth_compare" files: One-line summary displayed after running "simple_uncertainty.m" is manually pasted here (along with the filename and true delay) to compare measured delay and true delay 
                        
 "comprehensive_results" files: Summary displayed after running "comprehensive_uncertainty.m" is saved here
 
-"interesting_cases" files: One-line summary displayed after running "comprehensive_uncertainty.m" is manually pasted here to 
-                           compare measured delay and true delay
+"interesting_cases" files: One-line summary displayed after running "comprehensive_uncertainty.m" is manually pasted here (along with the filename and true delay) to compare measured delay and true delay

@@ -12,9 +12,9 @@ Codes to run
 
 "find_time_delay.m": Measure the time delay between the light curves
 
-"simple_uncertainty.m": Estimate "simple" uncertainty of the measured time delay and apply a correction to it
+"simple_uncertainty.m": Estimate "simple" uncertainty of the measured time delay and apply a correction to the measured delay
 
-"comprehensive_uncertainty.m": Estimate "comprehensive" uncertainty of the measured time delay and apply a correction to it
+"comprehensive_uncertainty.m": Estimate "comprehensive" uncertainty of the measured time delay and apply a correction to the measured delay
 
 "compute_tdc_metrics.m": Compute TDC performance metrics
 

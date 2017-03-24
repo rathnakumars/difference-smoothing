@@ -1,5 +1,5 @@
-Overview of folders
--------------------
+Overview of folder contents
+---------------------------
 "codes": MATLAB codes implementing difference-smoothing algorithm
 
 "crash_testing": Results from running the codes on rung3 and rung4 simulated light curves from TDC1
@@ -27,3 +27,11 @@ Overview of "crash_testing" folder
 "comprehensive_results" files: Summary displayed after running "comprehensive_uncertainty.m" is saved here
 
 "interesting_cases" files: One-line summary displayed after running "comprehensive_uncertainty.m" is manually pasted here (along with the filename and true delay) to compare measured delay and true delay
+
+Commands to initiate parallel pool in MATLAB 2015/2016
+------------------------------------------------------
+c = parcluster('local')
+
+c.NumWorkers = < Number of physical cores to use >
+
+parpool(c, c.NumWorkers)

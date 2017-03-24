@@ -32,6 +32,6 @@ Commands to initiate parallel pool in MATLAB 2015/2016
 ------------------------------------------------------
 c = parcluster('local')
 
-c.NumWorkers = < Number of physical cores to use >
+c.NumWorkers = < no. of physical cores to use >
 
 parpool(c, c.NumWorkers)

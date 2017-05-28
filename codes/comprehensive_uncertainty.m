@@ -9,7 +9,7 @@ clc
 load data
 load time_delay
 
-no_trials = 10     % The number of simulations per simulated delay.
+no_trials = 500     % The number of simulations per simulated delay.
 
 filename_chunks = strsplit(filename,'_');
 filepath = ['../crash_testing/comprehensive_results_' filename_chunks{2} '.txt'];   % The path to the results file for writing summary.

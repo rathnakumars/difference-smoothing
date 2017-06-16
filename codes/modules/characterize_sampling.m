@@ -44,7 +44,7 @@ for k=1:seasons
         gaps_season_centers = (t(first_epochs(k):last_epochs(k)-1)+t(first_epochs(k)+1:last_epochs(k)))/2;  
         
         [sort_seps,sort_seps_indices] = sort(abs(t(j)-gaps_season_centers));
-        sampling(j) = mean(gaps_season(sort_seps_indices(1:min(no_gaps,length(season_epochs)))));
+        sampling(j) = mean(gaps_season(sort_seps_indices(1:min(no_gaps,length(season_epochs)-1))));
     end
 end
 
